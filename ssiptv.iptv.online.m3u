@@ -1,0 +1,2075 @@
+#EXTM3U
+#EXTINF:0 tvg-name="Первый HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Первый HD
+http://ru.iptv.monster/play/73/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Первый канал +2" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Первый канал +2
+http://ru.iptv.monster/play/701/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Первый канал +4" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Первый канал +4
+http://ru.iptv.monster/play/731/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Первый канал +6" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Первый канал +6
+http://ru.iptv.monster/play/751/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Россия 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Россия 1 HD
+http://ru.iptv.monster/play/173/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Россия 1" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Россия 1
+http://ru.iptv.monster/play/2/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Россия 1 +2" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Россия 1 +2
+http://ru.iptv.monster/play/702/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Россия 1 +4" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Россия 1 +4
+http://ru.iptv.monster/play/732/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Россия 1 +6" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Россия 1 +6
+http://ru.iptv.monster/play/752/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Россия-24" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Россия-24
+http://ru.iptv.monster/play/49/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Планета РТР" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Планета РТР
+http://ru.iptv.monster/play/353/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ТНТ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",ТНТ HD
+http://ru.iptv.monster/play/86/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ТНТ (+2)" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",ТНТ (+2)
+http://ru.iptv.monster/play/719/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ТНТ (+4)" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",ТНТ (+4)
+http://ru.iptv.monster/play/749/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ТНТ (+7)" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",ТНТ (+7)
+http://ru.iptv.monster/play/769/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ТНТ4" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",ТНТ4
+http://ru.iptv.monster/play/41/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="НТВ Мир" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",НТВ Мир
+http://ru.iptv.monster/play/627/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="НТВ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",НТВ HD
+http://ru.iptv.monster/play/220/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="НТВ (+2)" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",НТВ (+2)
+http://ru.iptv.monster/play/704/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="НТВ Стиль" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",НТВ Стиль
+http://ru.iptv.monster/play/786/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Время" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Время
+http://ru.iptv.monster/play/131/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Москва 24" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Москва 24
+http://ru.iptv.monster/play/163/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Санкт-Петербург" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Санкт-Петербург
+http://ru.iptv.monster/play/301/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="РЕН ТВ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",РЕН ТВ HD
+http://ru.iptv.monster/play/111/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="РЕН ТВ (+2)" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",РЕН ТВ (+2)
+http://ru.iptv.monster/play/711/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="СТС HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",СТС HD
+http://ru.iptv.monster/play/36/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="СТС" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",СТС
+http://ru.iptv.monster/play/8/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="СТС (+2)" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",СТС (+2)
+http://ru.iptv.monster/play/713/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="СТС (+4)" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",СТС (+4)
+http://ru.iptv.monster/play/743/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="СТС (+6)" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",СТС (+6)
+http://ru.iptv.monster/play/763/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="СТС Love" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",СТС Love
+http://ru.iptv.monster/play/284/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Пятый Канал" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Пятый Канал
+http://ru.iptv.monster/play/169/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Россия-Культура" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Россия-Культура
+http://ru.iptv.monster/play/59/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Дождь" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Дождь
+http://ru.iptv.monster/play/988/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="РБК-ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",РБК-ТВ
+http://ru.iptv.monster/play/34/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ТВЦ" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",ТВЦ
+http://ru.iptv.monster/play/3/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ОТР" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",ОТР
+http://ru.iptv.monster/play/199/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ТВЦ International" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",ТВЦ International
+http://ru.iptv.monster/play/982/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="RTVi" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",RTVi
+http://ru.iptv.monster/play/365/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="RTVi Retro"  group-title="Россия",RTVi Retro
+http://ru.iptv.monster/play/363/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Перец" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Перец
+http://ru.iptv.monster/play/484/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Пятница" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Пятница
+http://ru.iptv.monster/play/9/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Пятница HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Пятница HD
+http://ru.iptv.monster/play/9930/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Суббота" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Суббота
+http://ru.iptv.monster/play/3685/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Настоящее время HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Настоящее время HD
+http://ru.iptv.monster/play/6202/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Ю ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Ю ТВ
+http://ru.iptv.monster/play/298/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Мир" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Мир
+http://ru.iptv.monster/play/118/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Мир Premium HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Мир Premium HD
+http://ru.iptv.monster/play/8115/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Телеканал Звезда" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Телеканал Звезда
+http://ru.iptv.monster/play/170/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Домашний" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Домашний
+http://ru.iptv.monster/play/115/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Первый Крымский" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Первый Крымский
+http://ru.iptv.monster/play/3779/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="КРЫМ 24" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",КРЫМ 24
+http://ru.iptv.monster/play/3904/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Москва Доверие" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Москва Доверие
+http://ru.iptv.monster/play/321/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ВМЕСТЕ-РФ" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",ВМЕСТЕ-РФ
+http://ru.iptv.monster/play/323/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Свое ТВ"  group-title="Россия",Свое ТВ
+http://ru.iptv.monster/play/3788/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Известия HD"  group-title="Россия",Известия HD
+http://ru.iptv.monster/play/3796/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Че!" catchup="shift" timeshift="5" catchup-days="5" group-title="Россия",Че!
+http://ru.iptv.monster/play/109/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="1+1" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",1+1
+http://ru.iptv.monster/play/400/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="1+1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",1+1 HD
+http://ru.iptv.monster/play/9971/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="1+1 Україна"  group-title="Украинские",1+1 Україна
+http://ru.iptv.monster/play/403/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="1+1 International HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",1+1 International HD
+http://ru.iptv.monster/play/8798/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="2+2" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",2+2
+http://ru.iptv.monster/play/656/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="2+2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",2+2 HD
+http://ru.iptv.monster/play/9953/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ICTV" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",ICTV
+http://ru.iptv.monster/play/647/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ICTV HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",ICTV HD
+http://ru.iptv.monster/play/9973/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ICTV2" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",ICTV2
+http://ru.iptv.monster/play/6205/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Ukraine 1" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Ukraine 1
+http://ru.iptv.monster/play/6153/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Ukraine 2" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Ukraine 2
+http://ru.iptv.monster/play/6154/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Новий канал" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Новий канал
+http://ru.iptv.monster/play/651/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Новий канал HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Новий канал HD
+http://ru.iptv.monster/play/9974/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="UA:Перший" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",UA:Перший
+http://ru.iptv.monster/play/646/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="UA: Київ"  group-title="Украинские",UA: Київ
+http://ru.iptv.monster/play/5498/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="СТБ" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",СТБ
+http://ru.iptv.monster/play/401/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="СТБ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",СТБ HD
+http://ru.iptv.monster/play/9975/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="НТН" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",НТН
+http://ru.iptv.monster/play/402/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="НТН HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",НТН HD
+http://ru.iptv.monster/play/8834/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Интер" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Интер
+http://ru.iptv.monster/play/404/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Интер HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Интер HD
+http://ru.iptv.monster/play/8833/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ТЕТ" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",ТЕТ
+http://ru.iptv.monster/play/405/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ТЕТ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",ТЕТ HD
+http://ru.iptv.monster/play/9954/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Униан ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Униан ТВ
+http://ru.iptv.monster/play/9949/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="К1" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",К1
+http://ru.iptv.monster/play/645/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="К1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",К1 HD
+http://ru.iptv.monster/play/8836/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="К2" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",К2
+http://ru.iptv.monster/play/652/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="К2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",К2 HD
+http://ru.iptv.monster/play/8835/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="24 Украина HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",24 Украина HD
+http://ru.iptv.monster/play/9955/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="5 канал ПЕРШИЙ.УКРАЇНСЬКИЙ. ІНФОРМАЦІЙНИЙ" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",5 канал ПЕРШИЙ.УКРАЇНСЬКИЙ. ІНФОРМАЦІЙНИЙ
+http://ru.iptv.monster/play/406/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Eспресо TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Eспресо TV
+http://ru.iptv.monster/play/408/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Прямий HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Прямий HD
+http://ru.iptv.monster/play/2605/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="FreeДОМ"  group-title="Украинские",FreeДОМ
+http://ru.iptv.monster/play/350/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Правда ТУТ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Правда ТУТ HD
+http://ru.iptv.monster/play/6204/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ATR" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",ATR
+http://ru.iptv.monster/play/9945/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Квартал ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Квартал ТВ
+http://ru.iptv.monster/play/2627/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Мега HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Мега HD
+http://ru.iptv.monster/play/654/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Enter-фільм" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Enter-фільм
+http://ru.iptv.monster/play/648/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Enter-фільм HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Enter-фільм HD
+http://ru.iptv.monster/play/8837/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Оце HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Оце HD
+http://ru.iptv.monster/play/9905/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Рада" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Рада
+http://ru.iptv.monster/play/9956/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Бігуді" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Бігуді
+http://ru.iptv.monster/play/2625/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Первый Автомобильный" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Первый Автомобильный
+http://ru.iptv.monster/play/8869/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Исландия" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Исландия
+http://ru.iptv.monster/play/8796/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="NLO TV 2"  group-title="Украинские",NLO TV 2
+http://ru.iptv.monster/play/6152/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Сонце" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Сонце
+http://ru.iptv.monster/play/9913/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Кус-кус"  group-title="Украинские",Кус-кус
+http://ru.iptv.monster/play/5112/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Zoom" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Zoom
+http://ru.iptv.monster/play/653/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ТРК Киев" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",ТРК Киев
+http://ru.iptv.monster/play/9908/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="12 канал Луцк"  group-title="Украинские",12 канал Луцк
+http://ru.iptv.monster/play/5176/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="UA:Культура" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",UA:Культура
+http://ru.iptv.monster/play/9909/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Первый городской Одесса"  group-title="Украинские",Первый городской Одесса
+http://ru.iptv.monster/play/9915/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="7 канал" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",7 канал
+http://ru.iptv.monster/play/9916/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Надія"  group-title="Украинские",Надія
+http://ru.iptv.monster/play/5108/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Думская TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Украинские",Думская TV
+http://ru.iptv.monster/play/9917/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ТРК Круг"  group-title="Украинские",ТРК Круг
+http://ru.iptv.monster/play/9919/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Караван ТВ"  group-title="Украинские",Караван ТВ
+http://ru.iptv.monster/play/5116/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ТВА"  group-title="Украинские",ТВА
+http://ru.iptv.monster/play/9906/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="33 канал"  group-title="Украинские",33 канал
+http://ru.iptv.monster/play/6161/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV7+ Проскурів"  group-title="Украинские",TV7+ Проскурів
+http://ru.iptv.monster/play/5164/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Перший Подільський"  group-title="Украинские",Перший Подільський
+http://ru.iptv.monster/play/5121/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ОТБ Галичина"  group-title="Украинские",ОТБ Галичина
+http://ru.iptv.monster/play/5120/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="11 канал Дніпро"  group-title="Украинские",11 канал Дніпро
+http://ru.iptv.monster/play/5122/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Пирятин"  group-title="Украинские",Пирятин
+http://ru.iptv.monster/play/5165/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="РАІ"  group-title="Украинские",РАІ
+http://ru.iptv.monster/play/5167/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Сварожичи"  group-title="Украинские",Сварожичи
+http://ru.iptv.monster/play/9947/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Розпакуй.TV"  group-title="Украинские",Розпакуй.TV
+http://ru.iptv.monster/play/5177/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV1000" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",TV1000
+http://ru.iptv.monster/play/82/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV1000 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",TV1000 HD
+http://ru.iptv.monster/play/488/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV1000 Action" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",TV1000 Action
+http://ru.iptv.monster/play/83/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV1000 Action HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",TV1000 Action HD
+http://ru.iptv.monster/play/487/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV1000 World Kino" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",TV1000 World Kino
+http://ru.iptv.monster/play/9987/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV1000 русское кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",TV1000 русское кино
+http://ru.iptv.monster/play/81/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV1000 Русское кино HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",TV1000 Русское кино HD
+http://ru.iptv.monster/play/489/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="VIP Comedy HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",VIP Comedy HD
+http://ru.iptv.monster/play/194/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="VIP Comedy CEE HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",VIP Comedy CEE HD
+http://ru.iptv.monster/play/9969/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="VIP Megahit HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",VIP Megahit HD
+http://ru.iptv.monster/play/195/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="VIP Megahit CEE HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",VIP Megahit CEE HD
+http://ru.iptv.monster/play/9968/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="VIP Premiere HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",VIP Premiere HD
+http://ru.iptv.monster/play/196/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="VIP Premiere CEE HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",VIP Premiere CEE HD
+http://ru.iptv.monster/play/9970/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="VIP Serial" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",VIP Serial
+http://ru.iptv.monster/play/9982/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Душевное HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Душевное HD
+http://ru.iptv.monster/play/370/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Наш Кинопоказ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Наш Кинопоказ HD
+http://ru.iptv.monster/play/4475/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Наше крутое HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Наше крутое HD
+http://ru.iptv.monster/play/369/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Наше любимое HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Наше любимое HD
+http://ru.iptv.monster/play/499/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Наше Мужское HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Наше Мужское HD
+http://ru.iptv.monster/play/4777/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Хит HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Хит HD
+http://ru.iptv.monster/play/4479/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Блокбастер HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Блокбастер HD
+http://ru.iptv.monster/play/4476/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Остросюжетное HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Остросюжетное HD
+http://ru.iptv.monster/play/368/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Киноужас HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Киноужас HD
+http://ru.iptv.monster/play/259/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Про Любовь HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Про Любовь HD
+http://ru.iptv.monster/play/4778/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Премиальное HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Премиальное HD
+http://ru.iptv.monster/play/367/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="КИНОПРЕМЬЕРА HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",КИНОПРЕМЬЕРА HD
+http://ru.iptv.monster/play/183/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Камеди HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Камеди HD
+http://ru.iptv.monster/play/4780/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="КИНОХИТ" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",КИНОХИТ
+http://ru.iptv.monster/play/33/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="КИНОСЕМЬЯ" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",КИНОСЕМЬЯ
+http://ru.iptv.monster/play/13/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="КИНОСВИДАНИЕ" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",КИНОСВИДАНИЕ
+http://ru.iptv.monster/play/11/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="КИНОКОМЕДИЯ" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",КИНОКОМЕДИЯ
+http://ru.iptv.monster/play/3738/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Шокирующее" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Шокирующее
+http://ru.iptv.monster/play/137/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Комедийное" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Комедийное
+http://ru.iptv.monster/play/138/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Premiere HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Kinoshka Premiere HD
+http://ru.iptv.monster/play/9990/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Comedy HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Kinoshka Comedy HD
+http://ru.iptv.monster/play/9994/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Thriller HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Kinoshka Thriller HD
+http://ru.iptv.monster/play/9992/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Drama HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Kinoshka Drama HD
+http://ru.iptv.monster/play/9989/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Russian HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Kinoshka Russian HD
+http://ru.iptv.monster/play/9995/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Mystic HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Kinoshka Mystic HD
+http://ru.iptv.monster/play/9996/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Action HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Kinoshka Action HD
+http://ru.iptv.monster/play/9998/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Christmas HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Kinoshka Christmas HD
+http://ru.iptv.monster/play/9988/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="AMEDIA 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",AMEDIA 1 HD
+http://ru.iptv.monster/play/629/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Amedia 1" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Amedia 1
+http://ru.iptv.monster/play/267/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Amedia 2" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Amedia 2
+http://ru.iptv.monster/play/261/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Amedia Hit" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Amedia Hit
+http://ru.iptv.monster/play/632/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="AMEDIA Premium HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",AMEDIA Premium HD
+http://ru.iptv.monster/play/187/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Amedia premium" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Amedia premium
+http://ru.iptv.monster/play/630/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Fox Life HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Fox Life HD
+http://ru.iptv.monster/play/179/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="FOX HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",FOX HD
+http://ru.iptv.monster/play/178/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Epic Drama HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Epic Drama HD
+http://ru.iptv.monster/play/9983/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name=".black" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",.black
+http://ru.iptv.monster/play/235/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name=".red HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",.red HD
+http://ru.iptv.monster/play/292/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name=".sci-fi" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",.sci-fi
+http://ru.iptv.monster/play/102/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Paramount Channel HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Paramount Channel HD
+http://ru.iptv.monster/play/383/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="AMC" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",AMC
+http://ru.iptv.monster/play/9936/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Hollywood HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Hollywood HD
+http://ru.iptv.monster/play/176/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Paramount Comedy Russia" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Paramount Comedy Russia
+http://ru.iptv.monster/play/181/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Fox Life" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Fox Life
+http://ru.iptv.monster/play/94/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Fox" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Fox
+http://ru.iptv.monster/play/95/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV XXI" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",TV XXI
+http://ru.iptv.monster/play/84/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Paramount Comedy HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Paramount Comedy HD
+http://ru.iptv.monster/play/382/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="НТВ Сериал" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",НТВ Сериал
+http://ru.iptv.monster/play/784/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="НТВ Хит" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",НТВ Хит
+http://ru.iptv.monster/play/3781/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Кинопоказ" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Кинопоказ
+http://ru.iptv.monster/play/129/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Киносат" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Киносат
+http://ru.iptv.monster/play/3670/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Кино ТВ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Кино ТВ HD
+http://ru.iptv.monster/play/381/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Action HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU Action HD
+http://ru.iptv.monster/play/7100/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Catastrophe HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU Catastrophe HD
+http://ru.iptv.monster/play/7101/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Comedy HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU Comedy HD
+http://ru.iptv.monster/play/7103/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Cinema HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU Cinema HD
+http://ru.iptv.monster/play/7102/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU CINEMA+ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU CINEMA+ HD
+http://ru.iptv.monster/play/7122/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Fantastic HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU Fantastic HD
+http://ru.iptv.monster/play/7104/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU STARS HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU STARS HD
+http://ru.iptv.monster/play/7123/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU FilMystic HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU FilMystic HD
+http://ru.iptv.monster/play/7105/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Reality HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU Reality HD
+http://ru.iptv.monster/play/7136/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU History HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU History HD
+http://ru.iptv.monster/play/7106/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Kinorating HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU Kinorating HD
+http://ru.iptv.monster/play/7107/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Marvel" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU Marvel
+http://ru.iptv.monster/play/7108/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Premiere HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU Premiere HD
+http://ru.iptv.monster/play/7109/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Romantic HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU Romantic HD
+http://ru.iptv.monster/play/7110/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Russian HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU Russian HD
+http://ru.iptv.monster/play/7111/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU VHS HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU VHS HD
+http://ru.iptv.monster/play/7112/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU TruMotion HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU TruMotion HD
+http://ru.iptv.monster/play/7139/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Кинозал Premiere 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU Кинозал Premiere 1 HD
+http://ru.iptv.monster/play/7113/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Кинозал Premiere 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU Кинозал Premiere 2 HD
+http://ru.iptv.monster/play/7114/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Кинозал Premiere 3 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU Кинозал Premiere 3 HD
+http://ru.iptv.monster/play/7115/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU СВАТЫ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU СВАТЫ HD
+http://ru.iptv.monster/play/7127/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Ruserial HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU Ruserial HD
+http://ru.iptv.monster/play/7119/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU СССР HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU СССР HD
+http://ru.iptv.monster/play/7120/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Cosmo HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU Cosmo HD
+http://ru.iptv.monster/play/7137/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Criminal HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BCU Criminal HD
+http://ru.iptv.monster/play/7128/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Ultra 4K"  group-title="Кино",BCU Ultra 4K
+http://ru.iptv.monster/play/7125/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Premiere Ultra 4K"  group-title="Кино",BCU Premiere Ultra 4K
+http://ru.iptv.monster/play/7140/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BackusTV"  group-title="Кино",BackusTV
+http://ru.iptv.monster/play/8112/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BackusTV Страшное"  group-title="Кино",BackusTV Страшное
+http://ru.iptv.monster/play/8113/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KBC_В.О.В." catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",KBC_В.О.В.
+http://ru.iptv.monster/play/8810/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KBC_comics" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",KBC_comics
+http://ru.iptv.monster/play/8811/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KBC_elite comedy's" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",KBC_elite comedy's
+http://ru.iptv.monster/play/8812/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KBC_fantastic" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",KBC_fantastic
+http://ru.iptv.monster/play/8813/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KBC_history" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",KBC_history
+http://ru.iptv.monster/play/8814/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KBC_newfilm" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",KBC_newfilm
+http://ru.iptv.monster/play/8815/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KBC_premium" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",KBC_premium
+http://ru.iptv.monster/play/8816/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KBC_Russian Комедия" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",KBC_Russian Комедия
+http://ru.iptv.monster/play/8817/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KBC_VIDAK" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",KBC_VIDAK
+http://ru.iptv.monster/play/8818/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KBC_ГАЙ Ritchie & Tarantino" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",KBC_ГАЙ Ritchie & Tarantino
+http://ru.iptv.monster/play/8819/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KBC_drama tic" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",KBC_drama tic
+http://ru.iptv.monster/play/8820/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KBC_kinoteatr" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",KBC_kinoteatr
+http://ru.iptv.monster/play/8821/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KBC_koshmarnoe" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",KBC_koshmarnoe
+http://ru.iptv.monster/play/8822/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KBC Strana sssr" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",KBC Strana sssr
+http://ru.iptv.monster/play/8824/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KBC_Криминальный Serial" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",KBC_Криминальный Serial
+http://ru.iptv.monster/play/8825/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KBC_Шпионское" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",KBC_Шпионское
+http://ru.iptv.monster/play/8826/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KBC_Light Сериал RU" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",KBC_Light Сериал RU
+http://ru.iptv.monster/play/8828/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Grand" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",YOSSO TV Grand
+http://ru.iptv.monster/play/8779/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV VHS" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",YOSSO TV VHS
+http://ru.iptv.monster/play/8778/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Русские фильмы" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",YOSSO TV Русские фильмы
+http://ru.iptv.monster/play/8776/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Советские фильмы" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",YOSSO TV Советские фильмы
+http://ru.iptv.monster/play/8775/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV New Кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",YOSSO TV New Кино
+http://ru.iptv.monster/play/8773/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Трагичное" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",YOSSO TV Трагичное
+http://ru.iptv.monster/play/8770/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Забавное" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",YOSSO TV Забавное
+http://ru.iptv.monster/play/8780/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV BEST" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",YOSSO TV BEST
+http://ru.iptv.monster/play/8781/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Ковбойское" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",YOSSO TV Ковбойское
+http://ru.iptv.monster/play/8782/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Adrenaline" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",YOSSO TV Adrenaline
+http://ru.iptv.monster/play/8783/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Adventure" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",YOSSO TV Adventure
+http://ru.iptv.monster/play/8769/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV OBLIVION" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",YOSSO TV OBLIVION
+http://ru.iptv.monster/play/8784/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Thriller" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",YOSSO TV Thriller
+http://ru.iptv.monster/play/8785/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO-4K"  group-title="Кино",YOSSO-4K
+http://ru.iptv.monster/play/8766/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO-C-INQUEST" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",YOSSO-C-INQUEST
+http://ru.iptv.monster/play/8767/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO-C-COMEDY" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",YOSSO-C-COMEDY
+http://ru.iptv.monster/play/8768/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="С-Marvel" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",С-Marvel
+http://ru.iptv.monster/play/8764/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Magic Action" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Magic Action
+http://ru.iptv.monster/play/6676/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Magic Comedy" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Magic Comedy
+http://ru.iptv.monster/play/6672/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Magic Family" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Magic Family
+http://ru.iptv.monster/play/6678/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Magic Galaxy" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Magic Galaxy
+http://ru.iptv.monster/play/6674/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Magic Horror" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Magic Horror
+http://ru.iptv.monster/play/6673/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Magic Karate" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Magic Karate
+http://ru.iptv.monster/play/6671/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Magic Love" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Magic Love
+http://ru.iptv.monster/play/6679/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Magic Thriller" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Magic Thriller
+http://ru.iptv.monster/play/6677/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Magic VHS" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Magic VHS
+http://ru.iptv.monster/play/6670/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MYTV" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",MYTV
+http://ru.iptv.monster/play/5150/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MYTV 2" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",MYTV 2
+http://ru.iptv.monster/play/5151/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MYTV 3" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",MYTV 3
+http://ru.iptv.monster/play/5152/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MYTV HIT" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",MYTV HIT
+http://ru.iptv.monster/play/5154/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Киноджем 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Киноджем 1 HD
+http://ru.iptv.monster/play/8846/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Киноджем 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Киноджем 2 HD
+http://ru.iptv.monster/play/8847/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="FilmBox" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",FilmBox
+http://ru.iptv.monster/play/3774/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="FilmBox Arthouse" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",FilmBox Arthouse
+http://ru.iptv.monster/play/2614/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Дорама HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Дорама HD
+http://ru.iptv.monster/play/8791/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Star Family HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Star Family HD
+http://ru.iptv.monster/play/9963/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Star Cinema HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Star Cinema HD
+http://ru.iptv.monster/play/9965/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="FilmUA Drama" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",FilmUA Drama
+http://ru.iptv.monster/play/9937/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Романтичное HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Романтичное HD
+http://ru.iptv.monster/play/9903/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Bolt HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Bolt HD
+http://ru.iptv.monster/play/1592/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kino 1" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Kino 1
+http://ru.iptv.monster/play/8787/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Родное кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Родное кино
+http://ru.iptv.monster/play/12/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="КИНЕКО" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",КИНЕКО
+http://ru.iptv.monster/play/6155/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="САПФИР" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",САПФИР
+http://ru.iptv.monster/play/6156/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="START Air HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",START Air HD
+http://ru.iptv.monster/play/6157/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="START World HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",START World HD
+http://ru.iptv.monster/play/6158/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Дом кино премиум HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Дом кино премиум HD
+http://ru.iptv.monster/play/931/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Дом Кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Дом Кино
+http://ru.iptv.monster/play/42/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Еврокино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Еврокино
+http://ru.iptv.monster/play/96/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Русский роман" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Русский роман
+http://ru.iptv.monster/play/172/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Русский Иллюзион" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Русский Иллюзион
+http://ru.iptv.monster/play/201/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Мосфильм. Золотая коллекция" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Мосфильм. Золотая коллекция
+http://ru.iptv.monster/play/9912/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Мосфильм HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Мосфильм HD
+http://ru.iptv.monster/play/4985/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Иллюзион +" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Иллюзион +
+http://ru.iptv.monster/play/202/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Мужское кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Мужское кино
+http://ru.iptv.monster/play/209/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Наше новое кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Наше новое кино
+http://ru.iptv.monster/play/35/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Trash TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Trash TV
+http://ru.iptv.monster/play/4830/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Советское кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Советское кино
+http://ru.iptv.monster/play/9926/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Победа" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Победа
+http://ru.iptv.monster/play/3770/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Русская комедия" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Русская комедия
+http://ru.iptv.monster/play/280/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Русский бестселлер" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Русский бестселлер
+http://ru.iptv.monster/play/281/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Русский детектив" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Русский детектив
+http://ru.iptv.monster/play/282/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Киномикс" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Киномикс
+http://ru.iptv.monster/play/167/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Киносерия" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Киносерия
+http://ru.iptv.monster/play/208/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Любимое кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Любимое кино
+http://ru.iptv.monster/play/342/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Мир сериала" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Мир сериала
+http://ru.iptv.monster/play/291/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Cinema" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Cinema
+http://ru.iptv.monster/play/223/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Zee TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Zee TV
+http://ru.iptv.monster/play/245/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Индийское Кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Индийское Кино
+http://ru.iptv.monster/play/62/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Феникс+ Кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Феникс+ Кино
+http://ru.iptv.monster/play/204/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ТВ3" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",ТВ3
+http://ru.iptv.monster/play/66/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="НСТ" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",НСТ
+http://ru.iptv.monster/play/93/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Shot TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Shot TV
+http://ru.iptv.monster/play/150/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Юрган" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Юрган
+http://ru.iptv.monster/play/191/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Кино UHD 4k"  group-title="Кино",Кино UHD 4k
+http://ru.iptv.monster/play/8842/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Сериал UHD 4k"  group-title="Кино",Сериал UHD 4k
+http://ru.iptv.monster/play/8843/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Ultra HD Cinema 4k"  group-title="Кино",Ultra HD Cinema 4k
+http://ru.iptv.monster/play/8844/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="МАТЧ ПРЕМЬЕР" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",МАТЧ ПРЕМЬЕР
+http://ru.iptv.monster/play/37/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="МАТЧ Премьер HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",МАТЧ Премьер HD
+http://ru.iptv.monster/play/250/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Матч Арена" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч Арена
+http://ru.iptv.monster/play/136/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Матч! Арена HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Арена HD
+http://ru.iptv.monster/play/146/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Матч ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч ТВ
+http://ru.iptv.monster/play/5/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Матч! HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! HD
+http://ru.iptv.monster/play/397/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="МАТЧ! Боец" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",МАТЧ! Боец
+http://ru.iptv.monster/play/30/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="МАТЧ! Страна" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",МАТЧ! Страна
+http://ru.iptv.monster/play/134/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Матч! Игра HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Игра HD
+http://ru.iptv.monster/play/268/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Матч! Игра" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Игра
+http://ru.iptv.monster/play/153/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Матч! Футбол 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Футбол 1 HD
+http://ru.iptv.monster/play/260/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Матч Футбол 1" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч Футбол 1
+http://ru.iptv.monster/play/54/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Матч! Футбол 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Футбол 2 HD
+http://ru.iptv.monster/play/271/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Матч! Футбол 3 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Футбол 3 HD
+http://ru.iptv.monster/play/329/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Футбол" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Футбол
+http://ru.iptv.monster/play/171/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Футбол HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Футбол HD
+http://ru.iptv.monster/play/3920/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Viasat Sport HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Viasat Sport HD
+http://ru.iptv.monster/play/198/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Viasat Sport" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Viasat Sport
+http://ru.iptv.monster/play/77/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports+" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Setanta Sports+
+http://ru.iptv.monster/play/9957/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Setanta Sports HD
+http://ru.iptv.monster/play/1434/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Setanta Eurasia+" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Setanta Eurasia+
+http://ru.iptv.monster/play/943/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Setanta Eurasia HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Setanta Eurasia HD
+http://ru.iptv.monster/play/942/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Setanta Qazaqstan" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Setanta Qazaqstan
+http://ru.iptv.monster/play/5094/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Сетанта Спорт" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Сетанта Спорт
+http://ru.iptv.monster/play/469/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Eurosport" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Eurosport
+http://ru.iptv.monster/play/15/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Eurosport HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Eurosport HD
+http://ru.iptv.monster/play/145/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Eurosport 2" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Eurosport 2
+http://ru.iptv.monster/play/43/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Eurosport 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Eurosport 2 HD
+http://ru.iptv.monster/play/361/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Старт HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Старт HD
+http://ru.iptv.monster/play/9946/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Конный мир HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Конный мир HD
+http://ru.iptv.monster/play/394/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Моторспорт ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Моторспорт ТВ
+http://ru.iptv.monster/play/3918/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="КХЛ" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",КХЛ
+http://ru.iptv.monster/play/149/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="КХЛ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",КХЛ HD
+http://ru.iptv.monster/play/177/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Хоккейный" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Хоккейный
+http://ru.iptv.monster/play/6160/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Ruh TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Ruh TV
+http://ru.iptv.monster/play/7182/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Бокс ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Бокс ТВ
+http://ru.iptv.monster/play/482/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Спорт 1" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Спорт 1
+http://ru.iptv.monster/play/479/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Extreme Sports" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Extreme Sports
+http://ru.iptv.monster/play/53/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Спортивный" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Спортивный
+http://ru.iptv.monster/play/6159/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Авто Плюс" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Авто Плюс
+http://ru.iptv.monster/play/29/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="NBA TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",NBA TV
+http://ru.iptv.monster/play/9984/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Мир Баскетбола" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Мир Баскетбола
+http://ru.iptv.monster/play/8831/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="NBA TV HD TR"  group-title="Спорт",NBA TV HD TR
+http://ru.iptv.monster/play/6675/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="UDAR" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",UDAR
+http://ru.iptv.monster/play/4111/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MMA-TV HD"  group-title="Спорт",MMA-TV HD
+http://ru.iptv.monster/play/3795/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="XSPORT" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",XSPORT
+http://ru.iptv.monster/play/480/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Equalympic HD"  group-title="Спорт",Equalympic HD
+http://ru.iptv.monster/play/8788/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Русский Экстрим" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Русский Экстрим
+http://ru.iptv.monster/play/345/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Точка отрыва" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Точка отрыва
+http://ru.iptv.monster/play/601/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Авто 24" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Авто 24
+http://ru.iptv.monster/play/256/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Cars & Stars TV HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Cars & Stars TV HD
+http://ru.iptv.monster/play/9904/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="FightBox HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",FightBox HD
+http://ru.iptv.monster/play/8790/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TRACE Sport Stars" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",TRACE Sport Stars
+http://ru.iptv.monster/play/9907/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Fast&FunBox HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Fast&FunBox HD
+http://ru.iptv.monster/play/8792/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BeIN Sport 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",BeIN Sport 1 HD
+http://ru.iptv.monster/play/1101/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BeIN Sport 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",BeIN Sport 2 HD
+http://ru.iptv.monster/play/1102/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BeIN Sport 3 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",BeIN Sport 3 HD
+http://ru.iptv.monster/play/1103/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BT Sport 1"  group-title="Спорт",BT Sport 1
+http://ru.iptv.monster/play/922/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BT Sport 2"  group-title="Спорт",BT Sport 2
+http://ru.iptv.monster/play/923/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BT Sport 3 HD"  group-title="Спорт",BT Sport 3 HD
+http://ru.iptv.monster/play/934/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BT Sport ESPN HD"  group-title="Спорт",BT Sport ESPN HD
+http://ru.iptv.monster/play/933/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Premier Sports 1 HD"  group-title="Спорт",Premier Sports 1 HD
+http://ru.iptv.monster/play/930/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Premier Sports 2 HD"  group-title="Спорт",Premier Sports 2 HD
+http://ru.iptv.monster/play/929/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sport BundesLiga"  group-title="Спорт",Sport BundesLiga
+http://ru.iptv.monster/play/5666/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Nova Sport HD"  group-title="Спорт",Nova Sport HD
+http://ru.iptv.monster/play/1122/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Fox Sport 1 HD"  group-title="Спорт",Fox Sport 1 HD
+http://ru.iptv.monster/play/6046/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Fox Sport 2 HD"  group-title="Спорт",Fox Sport 2 HD
+http://ru.iptv.monster/play/6047/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ESPN HD"  group-title="Спорт",ESPN HD
+http://ru.iptv.monster/play/6252/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ESPN 2"  group-title="Спорт",ESPN 2
+http://ru.iptv.monster/play/6253/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Discovery Science HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Discovery Science HD
+http://ru.iptv.monster/play/391/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Discovery Channel HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Discovery Channel HD
+http://ru.iptv.monster/play/147/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ID Xtra HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",ID Xtra HD
+http://ru.iptv.monster/play/392/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Investigation Discovery" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Investigation Discovery
+http://ru.iptv.monster/play/362/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="National Geographic HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",National Geographic HD
+http://ru.iptv.monster/play/143/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="National Geographic" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",National Geographic
+http://ru.iptv.monster/play/31/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Nat Geo Wild HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Nat Geo Wild HD
+http://ru.iptv.monster/play/162/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Animal Planet HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Animal Planet HD
+http://ru.iptv.monster/play/175/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="DocuBox HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",DocuBox HD
+http://ru.iptv.monster/play/9898/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HD Life" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",HD Life
+http://ru.iptv.monster/play/142/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Viasat Explore" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Viasat Explore
+http://ru.iptv.monster/play/79/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Viasat History" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Viasat History
+http://ru.iptv.monster/play/78/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Viasat Nature" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Viasat Nature
+http://ru.iptv.monster/play/119/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TLC HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",TLC HD
+http://ru.iptv.monster/play/189/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Travel Channel HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Travel Channel HD
+http://ru.iptv.monster/play/190/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="RTG HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",RTG HD
+http://ru.iptv.monster/play/186/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="History HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",History HD
+http://ru.iptv.monster/play/188/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Viasat History HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Viasat History HD
+http://ru.iptv.monster/play/491/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="H2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",H2 HD
+http://ru.iptv.monster/play/161/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Travel+Adventure HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Travel+Adventure HD
+http://ru.iptv.monster/play/180/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Глазами туриста HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Глазами туриста HD
+http://ru.iptv.monster/play/494/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Приключения HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Приключения HD
+http://ru.iptv.monster/play/140/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Большая Азия HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Большая Азия HD
+http://ru.iptv.monster/play/3994/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Поехали HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Поехали HD
+http://ru.iptv.monster/play/297/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Живая природа HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Живая природа HD
+http://ru.iptv.monster/play/324/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Живая планета" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Живая планета
+http://ru.iptv.monster/play/390/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Охотник и рыболов HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Охотник и рыболов HD
+http://ru.iptv.monster/play/364/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Охота и Рыбалка" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Охота и Рыбалка
+http://ru.iptv.monster/play/88/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Рыбалка HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Рыбалка HD
+http://ru.iptv.monster/play/9967/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Диалоги о рыбалке" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Диалоги о рыбалке
+http://ru.iptv.monster/play/4370/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Дикая охота HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Дикая охота HD
+http://ru.iptv.monster/play/3742/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Дикая рыбалка HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Дикая рыбалка HD
+http://ru.iptv.monster/play/3743/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Трофей HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Трофей HD
+http://ru.iptv.monster/play/9939/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Загородная Жизнь" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Загородная Жизнь
+http://ru.iptv.monster/play/303/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Загородный" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Загородный
+http://ru.iptv.monster/play/385/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Усадьба" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Усадьба
+http://ru.iptv.monster/play/80/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="6 соток"  group-title="Познавательные",6 соток
+http://ru.iptv.monster/play/7192/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Дача HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Дача HD
+http://ru.iptv.monster/play/8795/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Дикий" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Дикий
+http://ru.iptv.monster/play/600/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Арсенал HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Арсенал HD
+http://ru.iptv.monster/play/387/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Man TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Man TV
+http://ru.iptv.monster/play/229/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Наука 2.0" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Наука 2.0
+http://ru.iptv.monster/play/155/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Моя Планета" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Моя Планета
+http://ru.iptv.monster/play/135/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Тайна"  group-title="Познавательные",Тайна
+http://ru.iptv.monster/play/6201/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Планета HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Планета HD
+http://ru.iptv.monster/play/374/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Совершенно секретно" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Совершенно секретно
+http://ru.iptv.monster/play/224/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Кто есть кто" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Кто есть кто
+http://ru.iptv.monster/play/214/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="История" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",История
+http://ru.iptv.monster/play/273/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="365 дней ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",365 дней ТВ
+http://ru.iptv.monster/play/207/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Первый образовательный" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Первый образовательный
+http://ru.iptv.monster/play/263/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Психология 21" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Психология 21
+http://ru.iptv.monster/play/122/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Вопросы и ответы" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Вопросы и ответы
+http://ru.iptv.monster/play/123/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="360°" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",360°
+http://ru.iptv.monster/play/233/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="36.6 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",36.6 HD
+http://ru.iptv.monster/play/8794/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Оружие" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Оружие
+http://ru.iptv.monster/play/366/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Домашние Животные" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Домашние Животные
+http://ru.iptv.monster/play/121/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Ocean TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Ocean TV
+http://ru.iptv.monster/play/264/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sea TV HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Sea TV HD
+http://ru.iptv.monster/play/8793/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Galaxy" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Galaxy
+http://ru.iptv.monster/play/288/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Морской" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Морской
+http://ru.iptv.monster/play/337/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Телепутешествия" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Телепутешествия
+http://ru.iptv.monster/play/247/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="В мире животных HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",В мире животных HD
+http://ru.iptv.monster/play/372/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Eureka HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Eureka HD
+http://ru.iptv.monster/play/373/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Эпоха" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Эпоха
+http://ru.iptv.monster/play/7188/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Наука" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Наука
+http://ru.iptv.monster/play/7189/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Терра" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Терра
+http://ru.iptv.monster/play/7190/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Фауна" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Фауна
+http://ru.iptv.monster/play/7191/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Масон ТВ"  group-title="Познавательные",Масон ТВ
+http://ru.iptv.monster/play/7194/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="CGTN Русский" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",CGTN Русский
+http://ru.iptv.monster/play/8760/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BRODILO.TV"  group-title="Познавательные",BRODILO.TV
+http://ru.iptv.monster/play/7181/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ЕГЭ ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",ЕГЭ ТВ
+http://ru.iptv.monster/play/89/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Драйв" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Драйв
+http://ru.iptv.monster/play/97/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Т24" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Т24
+http://ru.iptv.monster/play/101/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="RTG TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",RTG TV
+http://ru.iptv.monster/play/106/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Зоопарк" catchup="shift" timeshift="5" catchup-days="5" group-title="Познавательные",Зоопарк
+http://ru.iptv.monster/play/108/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Наша Сибирь 4K"  group-title="Познавательные",Наша Сибирь 4K
+http://ru.iptv.monster/play/7143/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Kids HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Kinoshka Kids HD
+http://ru.iptv.monster/play/9993/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Nickelodeon HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Nickelodeon HD
+http://ru.iptv.monster/play/174/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Nickelodeon" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Nickelodeon
+http://ru.iptv.monster/play/21/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Nicktoons" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Nicktoons
+http://ru.iptv.monster/play/9941/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Nick Jr." catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Nick Jr.
+http://ru.iptv.monster/play/240/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Gulli" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Gulli
+http://ru.iptv.monster/play/217/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Jim Jam" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Jim Jam
+http://ru.iptv.monster/play/166/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Disney" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Disney
+http://ru.iptv.monster/play/57/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Boomerang" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Boomerang
+http://ru.iptv.monster/play/286/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Tiji TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Tiji TV
+http://ru.iptv.monster/play/218/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Duck TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Duck TV
+http://ru.iptv.monster/play/9899/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Cartoon Network" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Cartoon Network
+http://ru.iptv.monster/play/52/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Baby TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Baby TV
+http://ru.iptv.monster/play/360/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="СТС kids" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",СТС kids
+http://ru.iptv.monster/play/522/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="NIKI Kids" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",NIKI Kids
+http://ru.iptv.monster/play/2893/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="NIKI Junior" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",NIKI Junior
+http://ru.iptv.monster/play/2894/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Детский мир" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Детский мир
+http://ru.iptv.monster/play/32/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Детский" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Детский
+http://ru.iptv.monster/play/98/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Magic Disney" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Magic Disney
+http://ru.iptv.monster/play/6680/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Советские мультфильмы" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Советские мультфильмы
+http://ru.iptv.monster/play/9927/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Kids HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",BCU Kids HD
+http://ru.iptv.monster/play/7117/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Мультсериал" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",BCU Мультсериал
+http://ru.iptv.monster/play/7118/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Kids+ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",BCU Kids+ HD
+http://ru.iptv.monster/play/7126/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Kids 4K"  group-title="Детские",BCU Kids 4K
+http://ru.iptv.monster/play/7138/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Союзмульт" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",YOSSO TV Союзмульт
+http://ru.iptv.monster/play/8872/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Kids" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",YOSSO TV Kids
+http://ru.iptv.monster/play/8777/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="С-Cartoon"  group-title="Детские",С-Cartoon
+http://ru.iptv.monster/play/8765/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Карусель" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Карусель
+http://ru.iptv.monster/play/40/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Мульт" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Мульт
+http://ru.iptv.monster/play/200/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Мультимания" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Мультимания
+http://ru.iptv.monster/play/116/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Малыш" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Малыш
+http://ru.iptv.monster/play/788/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="В гостях у сказки" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",В гостях у сказки
+http://ru.iptv.monster/play/193/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Пиксель HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Пиксель HD
+http://ru.iptv.monster/play/409/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MYTV  Kids" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",MYTV  Kids
+http://ru.iptv.monster/play/5155/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Плюс Плюс" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Плюс Плюс
+http://ru.iptv.monster/play/9981/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Da Vinci Learning" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Da Vinci Learning
+http://ru.iptv.monster/play/120/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Ani" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Ani
+http://ru.iptv.monster/play/393/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Капитан Фантастика" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Капитан Фантастика
+http://ru.iptv.monster/play/384/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="2x2" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",2x2
+http://ru.iptv.monster/play/100/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Мама" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Мама
+http://ru.iptv.monster/play/90/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Радость моя" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Радость моя
+http://ru.iptv.monster/play/300/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="О!" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",О!
+http://ru.iptv.monster/play/182/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Малятко TV"  group-title="Детские",Малятко TV
+http://ru.iptv.monster/play/5163/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Lale" catchup="shift" timeshift="5" catchup-days="5" group-title="Детские",Lale
+http://ru.iptv.monster/play/8114/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="КВН ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="Разное",КВН ТВ
+http://ru.iptv.monster/play/3452/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="7D7TV"  group-title="Разное",7D7TV
+http://ru.iptv.monster/play/9880/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="R1 Media"  group-title="Разное",R1 Media
+http://ru.iptv.monster/play/6151/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Телекафе"  group-title="Разное",Телекафе
+http://ru.iptv.monster/play/114/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Luxury HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Разное",Luxury HD
+http://ru.iptv.monster/play/322/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Новороссия HD"  group-title="Разное",Новороссия HD
+http://ru.iptv.monster/play/9933/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Оплот ТВ HD"  group-title="Разное",Оплот ТВ HD
+http://ru.iptv.monster/play/9925/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Оплот ТВ 2"  group-title="Разное",Оплот ТВ 2
+http://ru.iptv.monster/play/9924/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="НТВ Право" catchup="shift" timeshift="5" catchup-days="5" group-title="Разное",НТВ Право
+http://ru.iptv.monster/play/785/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Бобер" catchup="shift" timeshift="5" catchup-days="5" group-title="Разное",Бобер
+http://ru.iptv.monster/play/396/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Закон"  group-title="Разное",Закон
+http://ru.iptv.monster/play/7193/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="8 канал" catchup="shift" timeshift="5" catchup-days="5" group-title="Разное",8 канал
+http://ru.iptv.monster/play/9920/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Fashion TV HD"  group-title="Разное",Fashion TV HD
+http://ru.iptv.monster/play/227/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="FashionBox HD"  group-title="Разное",FashionBox HD
+http://ru.iptv.monster/play/2610/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Доктор" catchup="shift" timeshift="5" catchup-days="5" group-title="Разное",Доктор
+http://ru.iptv.monster/play/58/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Здоровое ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="Разное",Здоровое ТВ
+http://ru.iptv.monster/play/99/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Здоровье" catchup="shift" timeshift="5" catchup-days="5" group-title="Разное",Здоровье
+http://ru.iptv.monster/play/252/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Театр" catchup="shift" timeshift="5" catchup-days="5" group-title="Разное",Театр
+http://ru.iptv.monster/play/333/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Кухня ТВ"  group-title="Разное",Кухня ТВ
+http://ru.iptv.monster/play/38/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="FoodTime" catchup="shift" timeshift="5" catchup-days="5" group-title="Разное",FoodTime
+http://ru.iptv.monster/play/141/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Первый вегетарианский"  group-title="Разное",Первый вегетарианский
+http://ru.iptv.monster/play/335/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Food Network HD"  group-title="Разное",Food Network HD
+http://ru.iptv.monster/play/9942/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Союз" catchup="shift" timeshift="5" catchup-days="5" group-title="Разное",Союз
+http://ru.iptv.monster/play/70/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Ретро" catchup="shift" timeshift="5" catchup-days="5" group-title="Разное",Ретро
+http://ru.iptv.monster/play/87/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ТБН"  group-title="Разное",ТБН
+http://ru.iptv.monster/play/216/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Успех"  group-title="Разное",Успех
+http://ru.iptv.monster/play/210/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Ностальгия" catchup="shift" timeshift="5" catchup-days="5" group-title="Разное",Ностальгия
+http://ru.iptv.monster/play/206/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ТДК" catchup="shift" timeshift="5" catchup-days="5" group-title="Разное",ТДК
+http://ru.iptv.monster/play/168/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Живи!"  group-title="Разное",Живи!
+http://ru.iptv.monster/play/112/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Сарафан" catchup="shift" timeshift="5" catchup-days="5" group-title="Разное",Сарафан
+http://ru.iptv.monster/play/117/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Телеканал СПАС"  group-title="Разное",Телеканал СПАС
+http://ru.iptv.monster/play/60/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="E!" catchup="shift" timeshift="5" catchup-days="5" group-title="Разное",E!
+http://ru.iptv.monster/play/221/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Точка ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="Разное",Точка ТВ
+http://ru.iptv.monster/play/251/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="English Club TV"  group-title="Разное",English Club TV
+http://ru.iptv.monster/play/157/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="CNN" catchup="shift" timeshift="5" catchup-days="5" group-title="Новости",CNN
+http://ru.iptv.monster/play/104/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Russia Today Doc HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Новости",Russia Today Doc HD
+http://ru.iptv.monster/play/244/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Euronews" catchup="shift" timeshift="5" catchup-days="5" group-title="Новости",Euronews
+http://ru.iptv.monster/play/17/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BBC World News" catchup="shift" timeshift="5" catchup-days="5" group-title="Новости",BBC World News
+http://ru.iptv.monster/play/105/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Fox News"  group-title="Новости",Fox News
+http://ru.iptv.monster/play/6077/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="RT Doc" catchup="shift" timeshift="5" catchup-days="5" group-title="Новости",RT Doc
+http://ru.iptv.monster/play/249/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Мир 24" catchup="shift" timeshift="5" catchup-days="5" group-title="Новости",Мир 24
+http://ru.iptv.monster/play/236/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Russia Today" catchup="shift" timeshift="5" catchup-days="5" group-title="Новости",Russia Today
+http://ru.iptv.monster/play/203/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MTV Rocks"  group-title="Музыкальные",MTV Rocks
+http://ru.iptv.monster/play/239/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MTV club"  group-title="Музыкальные",MTV club
+http://ru.iptv.monster/play/46/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MTV Live HD"  group-title="Музыкальные",MTV Live HD
+http://ru.iptv.monster/play/144/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MTV Россия HD"  group-title="Музыкальные",MTV Россия HD
+http://ru.iptv.monster/play/3736/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MTV Russia"  group-title="Музыкальные",MTV Russia
+http://ru.iptv.monster/play/277/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Жара HD"  group-title="Музыкальные",Жара HD
+http://ru.iptv.monster/play/3734/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="МУЗ"  group-title="Музыкальные",МУЗ
+http://ru.iptv.monster/play/10/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ТНТ MUSIC"  group-title="Музыкальные",ТНТ MUSIC
+http://ru.iptv.monster/play/71/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Европа Плюс ТВ"  group-title="Музыкальные",Европа Плюс ТВ
+http://ru.iptv.monster/play/160/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Trace Urban HD"  group-title="Музыкальные",Trace Urban HD
+http://ru.iptv.monster/play/960/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="VIVA Russia"  group-title="Музыкальные",VIVA Russia
+http://ru.iptv.monster/play/8799/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="4ever Music HD"  group-title="Музыкальные",4ever Music HD
+http://ru.iptv.monster/play/9938/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Megogo Live HD"  group-title="Музыкальные",Megogo Live HD
+http://ru.iptv.monster/play/6203/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BRIDGE HD"  group-title="Музыкальные",BRIDGE HD
+http://ru.iptv.monster/play/154/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="InRating TV HD"  group-title="Музыкальные",InRating TV HD
+http://ru.iptv.monster/play/9911/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Mezzo HD"  group-title="Музыкальные",Mezzo HD
+http://ru.iptv.monster/play/165/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="VH1 Europe"  group-title="Музыкальные",VH1 Europe
+http://ru.iptv.monster/play/278/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Шансон ТВ"  group-title="Музыкальные",Шансон ТВ
+http://ru.iptv.monster/play/67/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Мультимузыка"  group-title="Музыкальные",Мультимузыка
+http://ru.iptv.monster/play/156/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="RU.TV"  group-title="Музыкальные",RU.TV
+http://ru.iptv.monster/play/63/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Музыка"  group-title="Музыкальные",Музыка
+http://ru.iptv.monster/play/133/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Music Box"  group-title="Музыкальные",Music Box
+http://ru.iptv.monster/play/230/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="М1"  group-title="Музыкальные",М1
+http://ru.iptv.monster/play/909/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="M1 HD"  group-title="Музыкальные",M1 HD
+http://ru.iptv.monster/play/9980/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="M2 HD"  group-title="Музыкальные",M2 HD
+http://ru.iptv.monster/play/9979/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="О2ТВ"  group-title="Музыкальные",О2ТВ
+http://ru.iptv.monster/play/305/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Ля-минор"  group-title="Музыкальные",Ля-минор
+http://ru.iptv.monster/play/222/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Bridge TV русский хит"  group-title="Музыкальные",Bridge TV русский хит
+http://ru.iptv.monster/play/158/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MCM Top"  group-title="Музыкальные",MCM Top
+http://ru.iptv.monster/play/45/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Наше music HD"  group-title="Музыкальные",Наше music HD
+http://ru.iptv.monster/play/7184/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="EU Music HD"  group-title="Музыкальные",EU Music HD
+http://ru.iptv.monster/play/7186/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Music Hits"  group-title="Музыкальные",YOSSO TV Music Hits
+http://ru.iptv.monster/play/8771/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Planeta BG"  group-title="Музыкальные",Planeta BG
+http://ru.iptv.monster/play/1409/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Первый Музыкальный BY"  group-title="Музыкальные",Первый Музыкальный BY
+http://ru.iptv.monster/play/9928/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Етно HD"  group-title="Музыкальные",Етно HD
+http://ru.iptv.monster/play/1595/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Беларусь 1" catchup="shift" timeshift="5" catchup-days="5" group-title="BY",Беларусь 1
+http://ru.iptv.monster/play/1460/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Беларусь 2" catchup="shift" timeshift="5" catchup-days="5" group-title="BY",Беларусь 2
+http://ru.iptv.monster/play/1465/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Беларусь 3" catchup="shift" timeshift="5" catchup-days="5" group-title="BY",Беларусь 3
+http://ru.iptv.monster/play/1466/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Беларусь 4"  group-title="BY",Беларусь 4
+http://ru.iptv.monster/play/14677/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Беларусь 5"  group-title="BY",Беларусь 5
+http://ru.iptv.monster/play/1467/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Беларусь 24"  group-title="BY",Беларусь 24
+http://ru.iptv.monster/play/341/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="СТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="BY",СТВ
+http://ru.iptv.monster/play/1462/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ОНТ" catchup="shift" timeshift="5" catchup-days="5" group-title="BY",ОНТ
+http://ru.iptv.monster/play/1461/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Б-Кінозал"  group-title="BY",Б-Кінозал
+http://ru.iptv.monster/play/3794/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Cinema HD" catchup="shift" timeshift="5" catchup-days="5" group-title="BY",Cinema HD
+http://ru.iptv.monster/play/3793/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV1"  group-title="LT",TV1
+http://ru.iptv.monster/play/875/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV3"  group-title="LT",TV3
+http://ru.iptv.monster/play/865/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV6"  group-title="LT",TV6
+http://ru.iptv.monster/play/866/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV8"  group-title="LT",TV8
+http://ru.iptv.monster/play/872/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="LTV1"  group-title="LT",LTV1
+http://ru.iptv.monster/play/6966/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BTV HD"  group-title="LT",BTV HD
+http://ru.iptv.monster/play/878/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="LNK HD"  group-title="LT",LNK HD
+http://ru.iptv.monster/play/6960/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="LRT Televizija"  group-title="LT",LRT Televizija
+http://ru.iptv.monster/play/873/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Lietuvos Rytas"  group-title="LT",Lietuvos Rytas
+http://ru.iptv.monster/play/877/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV3 Plus"  group-title="LT",TV3 Plus
+http://ru.iptv.monster/play/6963/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV3 Life"  group-title="LT",TV3 Life
+http://ru.iptv.monster/play/6965/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="LRT Plius"  group-title="LT",LRT Plius
+http://ru.iptv.monster/play/6961/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV1000 Action HD"  group-title="LT",TV1000 Action HD
+http://ru.iptv.monster/play/6967/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV1000 HD"  group-title="LT",TV1000 HD
+http://ru.iptv.monster/play/6968/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV1000 WORLD KINO HD"  group-title="LT",TV1000 WORLD KINO HD
+http://ru.iptv.monster/play/6993/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Epic Drama"  group-title="LT",Epic Drama
+http://ru.iptv.monster/play/6997/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Fox Life"  group-title="LT",Fox Life
+http://ru.iptv.monster/play/6996/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kidzone"  group-title="LT",Kidzone
+http://ru.iptv.monster/play/868/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="National Geographic HD"  group-title="LT",National Geographic HD
+http://ru.iptv.monster/play/6969/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Viasat Explore HD"  group-title="LT",Viasat Explore HD
+http://ru.iptv.monster/play/6970/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Viasat Nature"  group-title="LT",Viasat Nature
+http://ru.iptv.monster/play/6972/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Viasat History HD"  group-title="LT",Viasat History HD
+http://ru.iptv.monster/play/6998/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MTV Hits"  group-title="LT",MTV Hits
+http://ru.iptv.monster/play/6971/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="LTV1"  group-title="LV",LTV1
+http://ru.iptv.monster/play/869/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="LTV7"  group-title="LV",LTV7
+http://ru.iptv.monster/play/871/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="3+"  group-title="LV",3+
+http://ru.iptv.monster/play/862/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV3"  group-title="LV",TV3
+http://ru.iptv.monster/play/861/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV6"  group-title="LV",TV6
+http://ru.iptv.monster/play/864/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV3 Life"  group-title="LV",TV3 Life
+http://ru.iptv.monster/play/867/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV3 Film"  group-title="LV",TV3 Film
+http://ru.iptv.monster/play/6976/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kidzone"  group-title="LV",Kidzone
+http://ru.iptv.monster/play/6977/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="DISNEY VIASAT EU"  group-title="LV",DISNEY VIASAT EU
+http://ru.iptv.monster/play/6890/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="NICK JR EU"  group-title="LV",NICK JR EU
+http://ru.iptv.monster/play/6991/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV1000 WORLD KINO MOVIE HD"  group-title="LV",TV1000 WORLD KINO MOVIE HD
+http://ru.iptv.monster/play/6980/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV1000 ACTION"  group-title="LV",TV1000 ACTION
+http://ru.iptv.monster/play/6988/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV1000 HD"  group-title="LV",TV1000 HD
+http://ru.iptv.monster/play/6994/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="National Geographic LV"  group-title="LV",National Geographic LV
+http://ru.iptv.monster/play/6981/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MTV HITS"  group-title="LV",MTV HITS
+http://ru.iptv.monster/play/6984/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MTV '00s"  group-title="LV",MTV '00s
+http://ru.iptv.monster/play/6992/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ETV"  group-title="EE",ETV
+http://ru.iptv.monster/play/6402/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ETV 2"  group-title="EE",ETV 2
+http://ru.iptv.monster/play/6403/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ETV+ HD"  group-title="EE",ETV+ HD
+http://ru.iptv.monster/play/6973/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kanal 2"  group-title="EE",Kanal 2
+http://ru.iptv.monster/play/6404/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV3"  group-title="EE",TV3
+http://ru.iptv.monster/play/7181/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV6"  group-title="EE",TV6
+http://ru.iptv.monster/play/7182/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TVPlay Sports"  group-title="EE",TVPlay Sports
+http://ru.iptv.monster/play/7183/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TVPlay Sports+"  group-title="EE",TVPlay Sports+
+http://ru.iptv.monster/play/7184/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kidzone Mini"  group-title="EE",Kidzone Mini
+http://ru.iptv.monster/play/6974/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="RTL HD DE" catchup="shift" timeshift="5" catchup-days="5" group-title="DE",RTL HD DE
+http://ru.iptv.monster/play/801/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Super RTL HD DE" catchup="shift" timeshift="5" catchup-days="5" group-title="DE",Super RTL HD DE
+http://ru.iptv.monster/play/803/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="RTL 2 HD DE" catchup="shift" timeshift="5" catchup-days="5" group-title="DE",RTL 2 HD DE
+http://ru.iptv.monster/play/805/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="RTL Crime DE"  group-title="DE",RTL Crime DE
+http://ru.iptv.monster/play/829/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="RTL Nitro HD DE"  group-title="DE",RTL Nitro HD DE
+http://ru.iptv.monster/play/804/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sky Sport 1 HD DE" catchup="shift" timeshift="5" catchup-days="5" group-title="DE",Sky Sport 1 HD DE
+http://ru.iptv.monster/play/833/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sky Sport 2 HD DE" catchup="shift" timeshift="5" catchup-days="5" group-title="DE",Sky Sport 2 HD DE
+http://ru.iptv.monster/play/834/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sky Sport Bundesliga 1 HD DE" catchup="shift" timeshift="5" catchup-days="5" group-title="DE",Sky Sport Bundesliga 1 HD DE
+http://ru.iptv.monster/play/836/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="n-tv HD DE"  group-title="DE",n-tv HD DE
+http://ru.iptv.monster/play/802/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sat.1 HD DE"  group-title="DE",Sat.1 HD DE
+http://ru.iptv.monster/play/806/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="N24 HD DE"  group-title="DE",N24 HD DE
+http://ru.iptv.monster/play/809/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sky Sport Austria HD DE"  group-title="DE",Sky Sport Austria HD DE
+http://ru.iptv.monster/play/5129/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Eurosport HD DE" catchup="shift" timeshift="5" catchup-days="5" group-title="DE",Eurosport HD DE
+http://ru.iptv.monster/play/831/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Eurosport 2 HD DE" catchup="shift" timeshift="5" catchup-days="5" group-title="DE",Eurosport 2 HD DE
+http://ru.iptv.monster/play/5136/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sport 1 HD DE" catchup="shift" timeshift="5" catchup-days="5" group-title="DE",Sport 1 HD DE
+http://ru.iptv.monster/play/818/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sky Cinema Nostalgie DE"  group-title="DE",Sky Cinema Nostalgie DE
+http://ru.iptv.monster/play/5125/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sky Cinema Comic-Helden DE"  group-title="DE",Sky Cinema Comic-Helden DE
+http://ru.iptv.monster/play/5130/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sky Cinema Family HD DE"  group-title="DE",Sky Cinema Family HD DE
+http://ru.iptv.monster/play/5101/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sky Atlantic HD DE" catchup="shift" timeshift="5" catchup-days="5" group-title="DE",Sky Atlantic HD DE
+http://ru.iptv.monster/play/918/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sky Hits HD DE"  group-title="DE",Sky Hits HD DE
+http://ru.iptv.monster/play/849/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sky Cinema HD DE"  group-title="DE",Sky Cinema HD DE
+http://ru.iptv.monster/play/847/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sky Cinema Action HD DE"  group-title="DE",Sky Cinema Action HD DE
+http://ru.iptv.monster/play/844/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Comedy Central HD DE"  group-title="DE",Comedy Central HD DE
+http://ru.iptv.monster/play/5138/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Universal TV HD DE"  group-title="DE",Universal TV HD DE
+http://ru.iptv.monster/play/5107/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="FOX HD DE"  group-title="DE",FOX HD DE
+http://ru.iptv.monster/play/921/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Syfy HD DE"  group-title="DE",Syfy HD DE
+http://ru.iptv.monster/play/917/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="VOX HD DE"  group-title="DE",VOX HD DE
+http://ru.iptv.monster/play/813/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TNT Serie HD DE"  group-title="DE",TNT Serie HD DE
+http://ru.iptv.monster/play/842/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TNT Film HD DE" catchup="shift" timeshift="5" catchup-days="5" group-title="DE",TNT Film HD DE
+http://ru.iptv.monster/play/841/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="AXN HD DE"  group-title="DE",AXN HD DE
+http://ru.iptv.monster/play/843/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Discovery HD DE"  group-title="DE",Discovery HD DE
+http://ru.iptv.monster/play/5140/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Nat Geo Wild HD DE"  group-title="DE",Nat Geo Wild HD DE
+http://ru.iptv.monster/play/5134/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="National Geographic HD"  group-title="DE",National Geographic HD
+http://ru.iptv.monster/play/824/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="History HD DE"  group-title="DE",History HD DE
+http://ru.iptv.monster/play/5137/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Nickelodeon HD DE"  group-title="DE",Nickelodeon HD DE
+http://ru.iptv.monster/play/859/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Boomerang DE"  group-title="DE",Boomerang DE
+http://ru.iptv.monster/play/5102/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Cartoon Network DE"  group-title="DE",Cartoon Network DE
+http://ru.iptv.monster/play/5103/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Disney Jr DE"  group-title="DE",Disney Jr DE
+http://ru.iptv.monster/play/821/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Disney HD DE"  group-title="DE",Disney HD DE
+http://ru.iptv.monster/play/819/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Das Erste HD DE"  group-title="DE",Das Erste HD DE
+http://ru.iptv.monster/play/814/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="arte HD DE"  group-title="DE",arte HD DE
+http://ru.iptv.monster/play/812/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ZDF HD DE"  group-title="DE",ZDF HD DE
+http://ru.iptv.monster/play/811/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="SIXX HD DE"  group-title="DE",SIXX HD DE
+http://ru.iptv.monster/play/810/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kabel Eins HD DE"  group-title="DE",Kabel Eins HD DE
+http://ru.iptv.monster/play/808/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ProSieben HD DE"  group-title="DE",ProSieben HD DE
+http://ru.iptv.monster/play/807/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="WELT HD DE"  group-title="DE",WELT HD DE
+http://ru.iptv.monster/play/5139/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="E! Entertainm. HD DE"  group-title="DE",E! Entertainm. HD DE
+http://ru.iptv.monster/play/5135/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Spiegel Geschichte HD DE"  group-title="DE",Spiegel Geschichte HD DE
+http://ru.iptv.monster/play/5132/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Romance TV DE"  group-title="DE",Romance TV DE
+http://ru.iptv.monster/play/5131/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kinowelt TV DE"  group-title="DE",Kinowelt TV DE
+http://ru.iptv.monster/play/5124/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="DMAX HD DE"  group-title="DE",DMAX HD DE
+http://ru.iptv.monster/play/920/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="13th Street HD DE"  group-title="DE",13th Street HD DE
+http://ru.iptv.monster/play/919/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="NDR HD DE"  group-title="DE",NDR HD DE
+http://ru.iptv.monster/play/839/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HR HD DE"  group-title="DE",HR HD DE
+http://ru.iptv.monster/play/838/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Anixe HD DE"  group-title="DE",Anixe HD DE
+http://ru.iptv.monster/play/830/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ORF 2N HD DE"  group-title="DE",ORF 2N HD DE
+http://ru.iptv.monster/play/827/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ORF 1 HD DE"  group-title="DE",ORF 1 HD DE
+http://ru.iptv.monster/play/826/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KIKA HD DE"  group-title="DE",KIKA HD DE
+http://ru.iptv.monster/play/823/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ProSieben Maxx HD DE"  group-title="DE",ProSieben Maxx HD DE
+http://ru.iptv.monster/play/817/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="3sat HD DE"  group-title="DE",3sat HD DE
+http://ru.iptv.monster/play/816/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="WDR HD Aachen DE"  group-title="DE",WDR HD Aachen DE
+http://ru.iptv.monster/play/815/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Channel 1 HD"  group-title="IL",Channel 1 HD
+http://ru.iptv.monster/play/1546/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Channel 8 HD"  group-title="IL",Channel 8 HD
+http://ru.iptv.monster/play/1541/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Channel 9 HD"  group-title="IL",Channel 9 HD
+http://ru.iptv.monster/play/1547/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Channel 9"  group-title="IL",Channel 9
+http://ru.iptv.monster/play/472/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Channel 11"  group-title="IL",Channel 11
+http://ru.iptv.monster/play/473/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Channel 12"  group-title="IL",Channel 12
+http://ru.iptv.monster/play/470/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Channel 13"  group-title="IL",Channel 13
+http://ru.iptv.monster/play/471/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="CHANNEL 23 HD"  group-title="IL",CHANNEL 23 HD
+http://ru.iptv.monster/play/6942/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KHAN 11"  group-title="IL",KHAN 11
+http://ru.iptv.monster/play/6917/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MOVIES ACTION HD"  group-title="IL",MOVIES ACTION HD
+http://ru.iptv.monster/play/6933/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MOVIES COMEDY HD"  group-title="IL",MOVIES COMEDY HD
+http://ru.iptv.monster/play/6934/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MOVIES DRAMA HD"  group-title="IL",MOVIES DRAMA HD
+http://ru.iptv.monster/play/6935/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HOT CINEMA 1 HD"  group-title="IL",HOT CINEMA 1 HD
+http://ru.iptv.monster/play/69020/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HOT CINEMA 3 HD"  group-title="IL",HOT CINEMA 3 HD
+http://ru.iptv.monster/play/6907/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HOT DRAMA HD"  group-title="IL",HOT DRAMA HD
+http://ru.iptv.monster/play/1510/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HOT COMEDY CENTRAL HD"  group-title="IL",HOT COMEDY CENTRAL HD
+http://ru.iptv.monster/play/6904/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HOT3 HD"  group-title="IL",HOT3 HD
+http://ru.iptv.monster/play/1537/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HOT REAL HD"  group-title="IL",HOT REAL HD
+http://ru.iptv.monster/play/6903/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HOT DIY HD"  group-title="IL",HOT DIY HD
+http://ru.iptv.monster/play/6906/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HOT HBO HD"  group-title="IL",HOT HBO HD
+http://ru.iptv.monster/play/6908/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HOT Entertainment"  group-title="IL",HOT Entertainment
+http://ru.iptv.monster/play/6929/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HOT ZONE HD"  group-title="IL",HOT ZONE HD
+http://ru.iptv.monster/play/6909/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HOT Teen nick"  group-title="IL",HOT Teen nick
+http://ru.iptv.monster/play/6946/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HOT BollywooD HD"  group-title="IL",HOT BollywooD HD
+http://ru.iptv.monster/play/6930/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BollyWood HD"  group-title="IL",BollyWood HD
+http://ru.iptv.monster/play/6995/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BOLLYSHOW HD"  group-title="IL",BOLLYSHOW HD
+http://ru.iptv.monster/play/6931/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HOT ACTION HD"  group-title="IL",HOT ACTION HD
+http://ru.iptv.monster/play/1513/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Yes COMEDY HD"  group-title="IL",Yes COMEDY HD
+http://ru.iptv.monster/play/1512/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Yes DOCU HD"  group-title="IL",Yes DOCU HD
+http://ru.iptv.monster/play/1511/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Yes Israeli Cinema"  group-title="IL",Yes Israeli Cinema
+http://ru.iptv.monster/play/1509/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ONE 4K"  group-title="IL",ONE 4K
+http://ru.iptv.monster/play/6939/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ONE HD"  group-title="IL",ONE HD
+http://ru.iptv.monster/play/1506/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ONE 2 HD"  group-title="IL",ONE 2 HD
+http://ru.iptv.monster/play/6915/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ZOOM"  group-title="IL",ZOOM
+http://ru.iptv.monster/play/1528/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ZONE HD"  group-title="IL",ZONE HD
+http://ru.iptv.monster/play/1529/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="EXTREME"  group-title="IL",EXTREME
+http://ru.iptv.monster/play/6900/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="DRAMA HD"  group-title="IL",DRAMA HD
+http://ru.iptv.monster/play/1526/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="FUN HD"  group-title="IL",FUN HD
+http://ru.iptv.monster/play/1525/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Good Life"  group-title="IL",Good Life
+http://ru.iptv.monster/play/1524/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="PLUS+ HD"  group-title="IL",PLUS+ HD
+http://ru.iptv.monster/play/1523/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Yam Tihoni 25"  group-title="IL",Yam Tihoni 25
+http://ru.iptv.monster/play/1567/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Viva plus"  group-title="IL",Viva plus
+http://ru.iptv.monster/play/1556/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Viva"  group-title="IL",Viva
+http://ru.iptv.monster/play/1563/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="i24"  group-title="IL",i24
+http://ru.iptv.monster/play/1562/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Prime"  group-title="IL",Prime
+http://ru.iptv.monster/play/1561/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Yaldut"  group-title="IL",Yaldut
+http://ru.iptv.monster/play/1559/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HIDABRUT"  group-title="IL",HIDABRUT
+http://ru.iptv.monster/play/6901/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Mikan"  group-title="IL",Mikan
+http://ru.iptv.monster/play/1555/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kabala"  group-title="IL",Kabala
+http://ru.iptv.monster/play/1554/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Yes E"  group-title="IL",Yes E
+http://ru.iptv.monster/play/1553/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Health"  group-title="IL",Health
+http://ru.iptv.monster/play/1552/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Food Channel"  group-title="IL",Food Channel
+http://ru.iptv.monster/play/1551/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Ego Total"  group-title="IL",Ego Total
+http://ru.iptv.monster/play/1550/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Big Brother"  group-title="IL",Big Brother
+http://ru.iptv.monster/play/1549/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="GOLD HD"  group-title="IL",GOLD HD
+http://ru.iptv.monster/play/1545/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ACTION HD"  group-title="IL",ACTION HD
+http://ru.iptv.monster/play/1544/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Baby"  group-title="IL",Baby
+http://ru.iptv.monster/play/1542/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Hop! Childhood"  group-title="IL",Hop! Childhood
+http://ru.iptv.monster/play/1538/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MOVIES KIDS HD"  group-title="IL",MOVIES KIDS HD
+http://ru.iptv.monster/play/6936/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Junior"  group-title="IL",Junior
+http://ru.iptv.monster/play/1536/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Logi"  group-title="IL",Logi
+http://ru.iptv.monster/play/1535/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Luli"  group-title="IL",Luli
+http://ru.iptv.monster/play/1534/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Nickelodeon"  group-title="IL",Nickelodeon
+http://ru.iptv.monster/play/1532/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Travel Channel"  group-title="IL",Travel Channel
+http://ru.iptv.monster/play/1530/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Home Plus"  group-title="IL",Home Plus
+http://ru.iptv.monster/play/1503/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="hop"  group-title="IL",hop
+http://ru.iptv.monster/play/1502/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Nick Jr"  group-title="IL",Nick Jr
+http://ru.iptv.monster/play/1501/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Disney HD"  group-title="IL",Disney HD
+http://ru.iptv.monster/play/476/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Disney Jr HD"  group-title="IL",Disney Jr HD
+http://ru.iptv.monster/play/474/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HOT A+ Kids"  group-title="IL",HOT A+ Kids
+http://ru.iptv.monster/play/1564/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="DISCOVERY CHANNEL HD"  group-title="IL",DISCOVERY CHANNEL HD
+http://ru.iptv.monster/play/6918/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="NATIONAL GEOGRAPHICS HD"  group-title="IL",NATIONAL GEOGRAPHICS HD
+http://ru.iptv.monster/play/6921/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="NET GEO_WILD HD"  group-title="IL",NET GEO_WILD HD
+http://ru.iptv.monster/play/6922/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="NAT GEO WILD"  group-title="IL",NAT GEO WILD
+http://ru.iptv.monster/play/6925/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HISTORY HD"  group-title="IL",HISTORY HD
+http://ru.iptv.monster/play/6928/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ANIMAL PLANET"  group-title="IL",ANIMAL PLANET
+http://ru.iptv.monster/play/6945/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="CBS REALIT"  group-title="IL",CBS REALIT
+http://ru.iptv.monster/play/6943/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HUMOR CHANNEL HD"  group-title="IL",HUMOR CHANNEL HD
+http://ru.iptv.monster/play/6910/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="LIFETIME HD"  group-title="IL",LIFETIME HD
+http://ru.iptv.monster/play/6911/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MAKAN HD"  group-title="IL",MAKAN HD
+http://ru.iptv.monster/play/6912/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HALA TV"  group-title="IL",HALA TV
+http://ru.iptv.monster/play/6927/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="E!"  group-title="IL",E!
+http://ru.iptv.monster/play/6919/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Fashion TV"  group-title="IL",Fashion TV
+http://ru.iptv.monster/play/6944/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sport 1 HD"  group-title="IL",Sport 1 HD
+http://ru.iptv.monster/play/1522/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sport  2 HD"  group-title="IL",Sport  2 HD
+http://ru.iptv.monster/play/1521/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sport 3 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="IL",Sport 3 HD
+http://ru.iptv.monster/play/1565/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sport 4 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="IL",Sport 4 HD
+http://ru.iptv.monster/play/1566/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sport 5 HD"  group-title="IL",Sport 5 HD
+http://ru.iptv.monster/play/1507/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sport 5 " catchup="shift" timeshift="5" catchup-days="5" group-title="IL",Sport 5 
+http://ru.iptv.monster/play/1569/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sport 5 Stars HD"  group-title="IL",Sport 5 Stars HD
+http://ru.iptv.monster/play/6916/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sport 5 Gold"  group-title="IL",Sport 5 Gold
+http://ru.iptv.monster/play/6923/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sport  5 Plus HD"  group-title="IL",Sport  5 Plus HD
+http://ru.iptv.monster/play/6924/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sport 5 Live HD" catchup="shift" timeshift="5" catchup-days="5" group-title="IL",Sport 5 Live HD
+http://ru.iptv.monster/play/1531/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Yes Stars"  group-title="IL",Yes Stars
+http://ru.iptv.monster/play/6941/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sport 5 4k"  group-title="IL",Sport 5 4k
+http://ru.iptv.monster/play/6940/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="music 24"  group-title="IL",music 24
+http://ru.iptv.monster/play/1505/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MUSIC ISRAEL HD"  group-title="IL",MUSIC ISRAEL HD
+http://ru.iptv.monster/play/6938/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TVP INFO HD"  group-title="PL",TVP INFO HD
+http://ru.iptv.monster/play/9052/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HBO 2 HD PL"  group-title="PL",HBO 2 HD PL
+http://ru.iptv.monster/play/1928/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV4 HD PL"  group-title="PL",TV4 HD PL
+http://ru.iptv.monster/play/1918/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Eleven HD PL" catchup="shift" timeshift="5" catchup-days="5" group-title="PL",Eleven HD PL
+http://ru.iptv.monster/play/1903/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sport Klub PL"  group-title="PL",Sport Klub PL
+http://ru.iptv.monster/play/1925/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Canal+ sport 2 HD PL" catchup="shift" timeshift="5" catchup-days="5" group-title="PL",Canal+ sport 2 HD PL
+http://ru.iptv.monster/play/1901/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Eleven Sports HD PL" catchup="shift" timeshift="5" catchup-days="5" group-title="PL",Eleven Sports HD PL
+http://ru.iptv.monster/play/1904/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Fightklub HD PL" catchup="shift" timeshift="5" catchup-days="5" group-title="PL",Fightklub HD PL
+http://ru.iptv.monster/play/1905/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kino Polska Muzyka PL"  group-title="PL",Kino Polska Muzyka PL
+http://ru.iptv.monster/play/1920/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Polsat Film HD PL" catchup="shift" timeshift="5" catchup-days="5" group-title="PL",Polsat Film HD PL
+http://ru.iptv.monster/play/1915/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Polsat Play HD PL"  group-title="PL",Polsat Play HD PL
+http://ru.iptv.monster/play/1916/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kuchnia+ HD PL"  group-title="PL",Kuchnia+ HD PL
+http://ru.iptv.monster/play/1937/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Discovery Historia PL"  group-title="PL",Discovery Historia PL
+http://ru.iptv.monster/play/1921/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Planete+ HD PL"  group-title="PL",Planete+ HD PL
+http://ru.iptv.monster/play/1936/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Teletoon+ HD PL"  group-title="PL",Teletoon+ HD PL
+http://ru.iptv.monster/play/1935/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Canal+ Film HD PL"  group-title="PL",Canal+ Film HD PL
+http://ru.iptv.monster/play/1933/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Canal+ Family HD PL"  group-title="PL",Canal+ Family HD PL
+http://ru.iptv.monster/play/1934/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Canal+ Seriale HD PL"  group-title="PL",Canal+ Seriale HD PL
+http://ru.iptv.monster/play/1939/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Ale Kino+ HD PL"  group-title="PL",Ale Kino+ HD PL
+http://ru.iptv.monster/play/1938/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="1 TV"  group-title="GE",1 TV
+http://ru.iptv.monster/play/416/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Imedi TV"  group-title="GE",Imedi TV
+http://ru.iptv.monster/play/421/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Saperavi TV"  group-title="GE",Saperavi TV
+http://ru.iptv.monster/play/419/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Maestro"  group-title="GE",Maestro
+http://ru.iptv.monster/play/418/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="GDS TV"  group-title="GE",GDS TV
+http://ru.iptv.monster/play/417/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Ajara TV"  group-title="GE",Ajara TV
+http://ru.iptv.monster/play/427/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Obieqtivi TV"  group-title="GE",Obieqtivi TV
+http://ru.iptv.monster/play/426/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Pirveli"  group-title="GE",Pirveli
+http://ru.iptv.monster/play/423/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Moldova 1 HD"  group-title="MD",Moldova 1 HD
+http://ru.iptv.monster/play/8945/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Moldova 2 HD"  group-title="MD",Moldova 2 HD
+http://ru.iptv.monster/play/8946/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="10 TV"  group-title="MD",10 TV
+http://ru.iptv.monster/play/11001/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Accent TV"  group-title="MD",Accent TV
+http://ru.iptv.monster/play/11003/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Agro"  group-title="MD",Agro
+http://ru.iptv.monster/play/11004/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ATV HD"  group-title="MD",ATV HD
+http://ru.iptv.monster/play/11005/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BTV HD"  group-title="MD",BTV HD
+http://ru.iptv.monster/play/11006/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Busuioc"  group-title="MD",Busuioc
+http://ru.iptv.monster/play/11007/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Canal 2 HD"  group-title="MD",Canal 2 HD
+http://ru.iptv.monster/play/11008/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Canal 3 HD"  group-title="MD",Canal 3 HD
+http://ru.iptv.monster/play/11009/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Canal 5"  group-title="MD",Canal 5
+http://ru.iptv.monster/play/11002/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="CTC"  group-title="MD",CTC
+http://ru.iptv.monster/play/11010/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="CTC kids HD"  group-title="MD",CTC kids HD
+http://ru.iptv.monster/play/11012/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Drokia TV"  group-title="MD",Drokia TV
+http://ru.iptv.monster/play/11011/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Elita TV"  group-title="MD",Elita TV
+http://ru.iptv.monster/play/11013/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="FAMILIA DOMASHNIY HD"  group-title="MD",FAMILIA DOMASHNIY HD
+http://ru.iptv.monster/play/11014/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="GRT"  group-title="MD",GRT
+http://ru.iptv.monster/play/11015/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Gurinel HD"  group-title="MD",Gurinel HD
+http://ru.iptv.monster/play/11016/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ITV"  group-title="MD",ITV
+http://ru.iptv.monster/play/11017/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Jurnal TV HD"  group-title="MD",Jurnal TV HD
+http://ru.iptv.monster/play/11018/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Media TV"  group-title="MD",Media TV
+http://ru.iptv.monster/play/11019/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Mult"  group-title="MD",Mult
+http://ru.iptv.monster/play/11020/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="N4"  group-title="MD",N4
+http://ru.iptv.monster/play/11021/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Noroc HD"  group-title="MD",Noroc HD
+http://ru.iptv.monster/play/11022/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="NTS"  group-title="MD",NTS
+http://ru.iptv.monster/play/11023/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="NTV Moldova"  group-title="MD",NTV Moldova
+http://ru.iptv.monster/play/11024/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Orhei TV"  group-title="MD",Orhei TV
+http://ru.iptv.monster/play/11025/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Orizont TV HD"  group-title="MD",Orizont TV HD
+http://ru.iptv.monster/play/11026/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Popas TV"  group-title="MD",Popas TV
+http://ru.iptv.monster/play/11027/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Prime HD"  group-title="MD",Prime HD
+http://ru.iptv.monster/play/11028/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Primul Moldova HD"  group-title="MD",Primul Moldova HD
+http://ru.iptv.monster/play/11029/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Pro TV HD"  group-title="MD",Pro TV HD
+http://ru.iptv.monster/play/11030/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Publica HD"  group-title="MD",Publica HD
+http://ru.iptv.monster/play/11031/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Regional"  group-title="MD",Regional
+http://ru.iptv.monster/play/11032/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Ren TV HD"  group-title="MD",Ren TV HD
+http://ru.iptv.monster/play/11033/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Rlive HD"  group-title="MD",Rlive HD
+http://ru.iptv.monster/play/11034/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="RTR HD"  group-title="MD",RTR HD
+http://ru.iptv.monster/play/11035/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Ru TV"  group-title="MD",Ru TV
+http://ru.iptv.monster/play/11036/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Sor TV"  group-title="MD",Sor TV
+http://ru.iptv.monster/play/11037/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="STV"  group-title="MD",STV
+http://ru.iptv.monster/play/11038/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TeleMoldova+"  group-title="MD",TeleMoldova+
+http://ru.iptv.monster/play/11039/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Televiziunea Centrala HD"  group-title="MD",Televiziunea Centrala HD
+http://ru.iptv.monster/play/11040/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Tezaur HD"  group-title="MD",Tezaur HD
+http://ru.iptv.monster/play/11041/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TNT Exclusive"  group-title="MD",TNT Exclusive
+http://ru.iptv.monster/play/11042/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV Prim"  group-title="MD",TV Prim
+http://ru.iptv.monster/play/11043/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV8 HD"  group-title="MD",TV8 HD
+http://ru.iptv.monster/play/11044/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TVC21"  group-title="MD",TVC21
+http://ru.iptv.monster/play/11045/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TVR"  group-title="MD",TVR
+http://ru.iptv.monster/play/11046/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Vocea Basarabiei"  group-title="MD",Vocea Basarabiei
+http://ru.iptv.monster/play/11047/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Zona M"  group-title="MD",Zona M
+http://ru.iptv.monster/play/11048/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="A7 HD"  group-title="RO",A7 HD
+http://ru.iptv.monster/play/11050/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Agro"  group-title="RO",Agro
+http://ru.iptv.monster/play/11051/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Alfa omega"  group-title="RO",Alfa omega
+http://ru.iptv.monster/play/11052/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Animal Planet HD RO"  group-title="RO",Animal Planet HD RO
+http://ru.iptv.monster/play/11139/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="AMC"  group-title="RO",AMC
+http://ru.iptv.monster/play/11053/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Animal Planet"  group-title="RO",Animal Planet
+http://ru.iptv.monster/play/11054/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Antena 1"  group-title="RO",Antena 1
+http://ru.iptv.monster/play/11131/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Antena 1 HD RO"  group-title="RO",Antena 1 HD RO
+http://ru.iptv.monster/play/11132/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Antena 3 HD RO"  group-title="RO",Antena 3 HD RO
+http://ru.iptv.monster/play/11133/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Antena 3"  group-title="RO",Antena 3
+http://ru.iptv.monster/play/11055/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Antena Stars HD RO"  group-title="RO",Antena Stars HD RO
+http://ru.iptv.monster/play/11134/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Antena stars"  group-title="RO",Antena stars
+http://ru.iptv.monster/play/11056/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="AXN Whit"  group-title="RO",AXN Whit
+http://ru.iptv.monster/play/11057/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="B1"  group-title="RO",B1
+http://ru.iptv.monster/play/11058/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Boomerang"  group-title="RO",Boomerang
+http://ru.iptv.monster/play/11060/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Bucuresti TV HD"  group-title="RO",Bucuresti TV HD
+http://ru.iptv.monster/play/11061/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kanal D HD RO"  group-title="RO",Kanal D HD RO
+http://ru.iptv.monster/play/11135/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kanal D"  group-title="RO",Kanal D
+http://ru.iptv.monster/play/11062/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Cartoon Network"  group-title="RO",Cartoon Network
+http://ru.iptv.monster/play/11063/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="CBS Reality"  group-title="RO",CBS Reality
+http://ru.iptv.monster/play/11064/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Cinemax 2"  group-title="RO",Cinemax 2
+http://ru.iptv.monster/play/11065/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Credo TV"  group-title="RO",Credo TV
+http://ru.iptv.monster/play/11066/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Digi Animal World"  group-title="RO",Digi Animal World
+http://ru.iptv.monster/play/11067/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Digi sport 1 HD"  group-title="RO",Digi sport 1 HD
+http://ru.iptv.monster/play/11068/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Digi sport 2 HD"  group-title="RO",Digi sport 2 HD
+http://ru.iptv.monster/play/11069/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="DIGI Sport 3 HD RO"  group-title="RO",DIGI Sport 3 HD RO
+http://ru.iptv.monster/play/11145/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Digi sport 3"  group-title="RO",Digi sport 3
+http://ru.iptv.monster/play/11070/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Digi sport 4"  group-title="RO",Digi sport 4
+http://ru.iptv.monster/play/11071/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Digi24"  group-title="RO",Digi24
+http://ru.iptv.monster/play/11072/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Discovery"  group-title="RO",Discovery
+http://ru.iptv.monster/play/11073/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Discovery Science HD RO"  group-title="RO",Discovery Science HD RO
+http://ru.iptv.monster/play/11146/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Discovery Science"  group-title="RO",Discovery Science
+http://ru.iptv.monster/play/11074/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Disney channel"  group-title="RO",Disney channel
+http://ru.iptv.monster/play/11075/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Disney Junio"  group-title="RO",Disney Junio
+http://ru.iptv.monster/play/11076/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Docubox HD"  group-title="RO",Docubox HD
+http://ru.iptv.monster/play/11077/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="DTX HD"  group-title="RO",DTX HD
+http://ru.iptv.monster/play/11078/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Duck"  group-title="RO",Duck
+http://ru.iptv.monster/play/11079/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="E! Entertainment HD RO"  group-title="RO",E! Entertainment HD RO
+http://ru.iptv.monster/play/11149/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Etho"  group-title="RO",Etho
+http://ru.iptv.monster/play/11080/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Eurosport 2"  group-title="RO",Eurosport 2
+http://ru.iptv.monster/play/11081/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Eurosport 2 HD"  group-title="RO",Eurosport 2 HD
+http://ru.iptv.monster/play/11082/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Eurosport HD"  group-title="RO",Eurosport HD
+http://ru.iptv.monster/play/11083/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Film Cafe"  group-title="RO",Film Cafe
+http://ru.iptv.monster/play/11084/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Filmbox Prem"  group-title="RO",Filmbox Prem
+http://ru.iptv.monster/play/11087/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Happy Channel HD RO"  group-title="RO",Happy Channel HD RO
+http://ru.iptv.monster/play/11136/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Happy Channel"  group-title="RO",Happy Channel
+http://ru.iptv.monster/play/11088/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HBO AXN"  group-title="RO",HBO AXN
+http://ru.iptv.monster/play/11089/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="AXN Black"  group-title="RO",AXN Black
+http://ru.iptv.monster/play/11090/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HBO HD"  group-title="RO",HBO HD
+http://ru.iptv.monster/play/11091/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HBO2"  group-title="RO",HBO2
+http://ru.iptv.monster/play/11092/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="HBO3"  group-title="RO",HBO3
+http://ru.iptv.monster/play/11093/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="IDXtra HD"  group-title="RO",IDXtra HD
+http://ru.iptv.monster/play/11094/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Jim Jam Ro"  group-title="RO",Jim Jam Ro
+http://ru.iptv.monster/play/11095/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="CBS Reality RO"  group-title="RO",CBS Reality RO
+http://ru.iptv.monster/play/11140/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="CineMax RO"  group-title="RO",CineMax RO
+http://ru.iptv.monster/play/11141/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="CineMax HD"  group-title="RO",CineMax HD
+http://ru.iptv.monster/play/11142/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="CineMax 2 RO"  group-title="RO",CineMax 2 RO
+http://ru.iptv.monster/play/11143/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="CineMax 2 HD RO"  group-title="RO",CineMax 2 HD RO
+http://ru.iptv.monster/play/11144/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Cinemax 1"  group-title="RO",Cinemax 1
+http://ru.iptv.monster/play/11096/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kiss"  group-title="RO",Kiss
+http://ru.iptv.monster/play/11097/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Look Sport RO"  group-title="RO",Look Sport RO
+http://ru.iptv.monster/play/11147/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Minimax"  group-title="RO",Minimax
+http://ru.iptv.monster/play/11102/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Mooz Dance HD"  group-title="RO",Mooz Dance HD
+http://ru.iptv.monster/play/11103/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Music Channel"  group-title="RO",Music Channel
+http://ru.iptv.monster/play/11104/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="N24"  group-title="RO",N24
+http://ru.iptv.monster/play/11105/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="National Geograpfic"  group-title="RO",National Geograpfic
+http://ru.iptv.monster/play/11106/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="National TV"  group-title="RO",National TV
+http://ru.iptv.monster/play/11107/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Nick JR"  group-title="RO",Nick JR
+http://ru.iptv.monster/play/11108/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Nickelodeon"  group-title="RO",Nickelodeon
+http://ru.iptv.monster/play/11109/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Prima TV RO"  group-title="RO",Prima TV RO
+http://ru.iptv.monster/play/11148/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="P"  group-title="RO",P
+http://ru.iptv.monster/play/11110/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Pro 2 HD RO"  group-title="RO",Pro 2 HD RO
+http://ru.iptv.monster/play/11137/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Pro 2"  group-title="RO",Pro 2
+http://ru.iptv.monster/play/11111/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Pro-Gold"  group-title="RO",Pro-Gold
+http://ru.iptv.monster/play/11112/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ProTV"  group-title="RO",ProTV
+http://ru.iptv.monster/play/11113/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ProTV HD"  group-title="RO",ProTV HD
+http://ru.iptv.monster/play/11114/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ProTV International"  group-title="RO",ProTV International
+http://ru.iptv.monster/play/11115/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="PRO X HD"  group-title="RO",PRO X HD
+http://ru.iptv.monster/play/11138/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ProX"  group-title="RO",ProX
+http://ru.iptv.monster/play/11116/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Realitatea+"  group-title="RO",Realitatea+
+http://ru.iptv.monster/play/11117/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Romania TV"  group-title="RO",Romania TV
+http://ru.iptv.monster/play/11118/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Speranta"  group-title="RO",Speranta
+http://ru.iptv.monster/play/11119/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Tataf"  group-title="RO",Tataf
+http://ru.iptv.monster/play/11120/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TDC HD"  group-title="RO",TDC HD
+http://ru.iptv.monster/play/11121/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Telestar 1"  group-title="RO",Telestar 1
+http://ru.iptv.monster/play/11122/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TFavorit"  group-title="RO",TFavorit
+http://ru.iptv.monster/play/11123/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Travel mix HD"  group-title="RO",Travel mix HD
+http://ru.iptv.monster/play/11124/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Trinitas"  group-title="RO",Trinitas
+http://ru.iptv.monster/play/11125/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TV paprika"  group-title="RO",TV paprika
+http://ru.iptv.monster/play/11126/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TVR1 HD"  group-title="RO",TVR1 HD
+http://ru.iptv.monster/play/11127/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TVR2"  group-title="RO",TVR2
+http://ru.iptv.monster/play/11128/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="TVR3"  group-title="RO",TVR3
+http://ru.iptv.monster/play/11129/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ZU"  group-title="RO",ZU
+http://ru.iptv.monster/play/11130/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="EPT NEWS HD"  group-title="GR",EPT NEWS HD
+http://ru.iptv.monster/play/5925/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="EPT 1"  group-title="GR",EPT 1
+http://ru.iptv.monster/play/5901/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="EPT Sport 1 HD"  group-title="GR",EPT Sport 1 HD
+http://ru.iptv.monster/play/5927/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="EPT Sport 2 HD"  group-title="GR",EPT Sport 2 HD
+http://ru.iptv.monster/play/5926/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ERT World"  group-title="GR",ERT World
+http://ru.iptv.monster/play/5928/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Extra"  group-title="GR",Extra
+http://ru.iptv.monster/play/5902/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kontra HD"  group-title="GR",Kontra HD
+http://ru.iptv.monster/play/5903/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Mad"  group-title="GR",Mad
+http://ru.iptv.monster/play/5904/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Action 24"  group-title="GR",Action 24
+http://ru.iptv.monster/play/5906/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Attica"  group-title="GR",Attica
+http://ru.iptv.monster/play/5907/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BluSky"  group-title="GR",BluSky
+http://ru.iptv.monster/play/5908/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Ch9"  group-title="GR",Ch9
+http://ru.iptv.monster/play/5909/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Rise "  group-title="GR",Rise 
+http://ru.iptv.monster/play/5910/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Nick"  group-title="GR",Nick
+http://ru.iptv.monster/play/5911/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Alert"  group-title="GR",Alert
+http://ru.iptv.monster/play/5912/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Smile"  group-title="GR",Smile
+http://ru.iptv.monster/play/5913/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ERT 1"  group-title="GR",ERT 1
+http://ru.iptv.monster/play/5914/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ERT 2"  group-title="GR",ERT 2
+http://ru.iptv.monster/play/5915/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ERT 3"  group-title="GR",ERT 3
+http://ru.iptv.monster/play/5916/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Vouli"  group-title="GR",Vouli
+http://ru.iptv.monster/play/5917/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Alpha"  group-title="GR",Alpha
+http://ru.iptv.monster/play/5918/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ANT 1"  group-title="GR",ANT 1
+http://ru.iptv.monster/play/5919/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="E"  group-title="GR",E
+http://ru.iptv.monster/play/5920/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Makedonia"  group-title="GR",Makedonia
+http://ru.iptv.monster/play/5921/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Mega"  group-title="GR",Mega
+http://ru.iptv.monster/play/5922/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Skai"  group-title="GR",Skai
+http://ru.iptv.monster/play/5923/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Star"  group-title="GR",Star
+http://ru.iptv.monster/play/5924/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Казахстан KZ"  group-title="KZ",Казахстан KZ
+http://ru.iptv.monster/play/447/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="КТК KZ"  group-title="KZ",КТК KZ
+http://ru.iptv.monster/play/448/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Первый канал Евразия KZ"  group-title="KZ",Первый канал Евразия KZ
+http://ru.iptv.monster/play/449/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Седьмой канал KZ"  group-title="KZ",Седьмой канал KZ
+http://ru.iptv.monster/play/450/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Astana TV KZ"  group-title="KZ",Astana TV KZ
+http://ru.iptv.monster/play/451/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kazakh TV KZ"  group-title="KZ",Kazakh TV KZ
+http://ru.iptv.monster/play/454/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Новое телевидение KZ"  group-title="KZ",Новое телевидение KZ
+http://ru.iptv.monster/play/455/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="31 канал KZ"  group-title="KZ",31 канал KZ
+http://ru.iptv.monster/play/456/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="НТК KZ"  group-title="KZ",НТК KZ
+http://ru.iptv.monster/play/457/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="СТВ KZ"  group-title="KZ",СТВ KZ
+http://ru.iptv.monster/play/458/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="ТАН KZ"  group-title="KZ",ТАН KZ
+http://ru.iptv.monster/play/459/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="5 канал KZ"  group-title="KZ",5 канал KZ
+http://ru.iptv.monster/play/460/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Казахстан Караганда KZ"  group-title="KZ",Казахстан Караганда KZ
+http://ru.iptv.monster/play/461/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Хабар KZ"  group-title="KZ",Хабар KZ
+http://ru.iptv.monster/play/462/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Хабар 24"  group-title="KZ",Хабар 24
+http://ru.iptv.monster/play/464/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="24kz KZ"  group-title="KZ",24kz KZ
+http://ru.iptv.monster/play/465/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Hit TV KZ"  group-title="KZ",Hit TV KZ
+http://ru.iptv.monster/play/466/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="MuzzOne KZ"  group-title="KZ",MuzzOne KZ
+http://ru.iptv.monster/play/467/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Асыл Арна KZ"  group-title="KZ",Асыл Арна KZ
+http://ru.iptv.monster/play/468/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="KazSport KZ"  group-title="KZ",KazSport KZ
+http://ru.iptv.monster/play/463/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="InterAz AZ"  group-title="AZ/TJ",InterAz AZ
+http://ru.iptv.monster/play/442/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Azad TV AZ"  group-title="AZ/TJ",Azad TV AZ
+http://ru.iptv.monster/play/441/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Xazar TV AZ"  group-title="AZ/TJ",Xazar TV AZ
+http://ru.iptv.monster/play/440/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Medeniyyet AZ"  group-title="AZ/TJ",Medeniyyet AZ
+http://ru.iptv.monster/play/438/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="CBC AZ"  group-title="AZ/TJ",CBC AZ
+http://ru.iptv.monster/play/437/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Ictimai TV AZ"  group-title="AZ/TJ",Ictimai TV AZ
+http://ru.iptv.monster/play/436/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="AzTV AZ"  group-title="AZ/TJ",AzTV AZ
+http://ru.iptv.monster/play/435/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Space TV AZ"  group-title="AZ/TJ",Space TV AZ
+http://ru.iptv.monster/play/430/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="CBC Sport AZ"  group-title="AZ/TJ",CBC Sport AZ
+http://ru.iptv.monster/play/434/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Idman AZ"  group-title="AZ/TJ",Idman AZ
+http://ru.iptv.monster/play/439/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Tojikistan HD TJ"  group-title="AZ/TJ",Tojikistan HD TJ
+http://ru.iptv.monster/play/911/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Safina HD TJ"  group-title="AZ/TJ",Safina HD TJ
+http://ru.iptv.monster/play/912/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Bakhoristan HD TJ"  group-title="AZ/TJ",Bakhoristan HD TJ
+http://ru.iptv.monster/play/913/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Русская Ночь" catchup="shift" timeshift="5" catchup-days="5" group-title="Для взрослых",Русская Ночь
+http://ru.iptv.monster/play/132/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Blue Hustler TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Для взрослых",Blue Hustler TV
+http://ru.iptv.monster/play/107/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Playboy" catchup="shift" timeshift="5" catchup-days="5" group-title="Для взрослых",Playboy
+http://ru.iptv.monster/play/242/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Hustler HD Europe" catchup="shift" timeshift="5" catchup-days="5" group-title="Для взрослых",Hustler HD Europe
+http://ru.iptv.monster/play/592/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Eroxxx HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Для взрослых",Eroxxx HD
+http://ru.iptv.monster/play/596/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Satisfaction HD"  group-title="Для взрослых",Satisfaction HD
+http://ru.iptv.monster/play/598/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Brazzers TV Europe" catchup="shift" timeshift="5" catchup-days="5" group-title="Для взрослых",Brazzers TV Europe
+http://ru.iptv.monster/play/76/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Barely Legal" catchup="shift" timeshift="5" catchup-days="5" group-title="Для взрослых",Barely Legal
+http://ru.iptv.monster/play/4012/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Penthouse HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Для взрослых",Penthouse HD
+http://ru.iptv.monster/play/1497/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Adult HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Для взрослых",Kinoshka Adult HD
+http://ru.iptv.monster/play/9997/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="BCU Charm HD"  group-title="Для взрослых",BCU Charm HD
+http://ru.iptv.monster/play/7141/5F387B1A5FC4FA6/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV SEXY" catchup="shift" timeshift="5" catchup-days="5" group-title="Для взрослых",YOSSO TV SEXY
+http://ru.iptv.monster/play/8774/5F387B1A5FC4FA6/video.m3u8
